@@ -1,13 +1,29 @@
 {% extends "base.html" %}
 {% block content %}
-
-<div class="jumbotron">
-  <h1>{{CLASS_NUMBER}}</h1>
+<div class="row">
+<div class="col-lg-8">
+<div class="jumbotron" style="background-color:white;">
+  <h1>{{TITLE_NAME}}</h1>
    <p>{{ FULL_SITE }}</p>
-<br> {{FULL_NAME}} </br>
 </div>
-
+</div>
+<div class="col-lg-4">
+  <img class="img-responsive img-rounded" src="static/rahul-475x443.jpg" alt="Rahul in the Desert">
+</div>
+</div>
+{% if articles %}
+<div class="row">
+    <div class="col-lg-12">
+      <h4>{{articles[0].title}}</h4>
+      <p class="text-success">{{articles[0].summary}}</p>
+      <p><a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ articles[0].url }}">more ...</a></p>    
+    </div><!-- /.col-lg-12 -->
+</div>
+{% endif %}
+<hr/>
+<div class="row">
+    <div class="col-lg-12">
 {{ page.content }}
-
-    
+    </div>
+</div>
 {% endblock content %}

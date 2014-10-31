@@ -4,7 +4,6 @@ from __future__ import unicode_literals
 from sitestuff import *
 
 
-
 SITEURL = ''
 
 PATH = 'content'
@@ -22,15 +21,15 @@ TRANSLATION_FEED_ATOM = None
 #specific
 THEME = 'support/themes/modpbs3'
 BOOTSTRAP_THEME = 'sandstone'
-TWITTER_USERNAME="Author"
+TWITTER_USERNAME="rahuldave"
 
-
+TYPOGRIFY=True
 
 # Social widget
 #SOCIAL = True
-
-DEFAULT_PAGINATION = 10
-MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra']
+SUMMARY_MAX_LENGTH = 50
+DEFAULT_PAGINATION = 2
+MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'attr_list']
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 NEWEST_FIRST_ARCHIVES = True
@@ -49,11 +48,9 @@ ARTICLE_EXCLUDES=['pages','othermd']
 start = SITEURL
 def do_menuitems(start):
     menuitems = [
-          ('Schedule', "%s/schedule.html" % start ),
-          ('Syllabus', "%s/syllabus.html" % start ),
-          ('Policies', "%s/policies.html" % start ),
-          ('Resources', "%s/resources.html" % start ),
-          ('Contact', "%s/contact.html" % start ),
+          ('Blog', "%s/blog_index.html" % start ),
+          ('LxPrior', "http://www.lxprior.com"),
+          ('About', "%s/about.html" % start ),
           ]
     return menuitems
 MENUITEMS = do_menuitems(start)
@@ -80,4 +77,5 @@ PAGE_SAVE_AS = '{slug}.html'
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
 
-DIRECT_TEMPLATES = ('tags', 'categories', 'authors', 'archives')
+DIRECT_TEMPLATES = ('tags', 'categories', 'authors', 'archives', 'blog_index')
+PAGINATED_DIRECT_TEMPLATES = ('tags', 'categories', 'authors', 'archives', 'blog_index')

@@ -1,5 +1,5 @@
-PY?=python
-PELICAN?=pelican -v
+PY?=/anaconda/bin/python
+PELICAN?=/anaconda/bin/pelican -v
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)

@@ -3,7 +3,7 @@ SITENAME = u'TIG'
 
 FULL_NAME="Rahul Dave"
 FULL_SITE="The Lair of The Inscrutable Gargoyle"
-CLASS_NUMBER="rahuldave"
+TITLE_NAME="rahuldave"
 
 
 # Blogroll

@@ -1,15 +1,21 @@
 {% extends "basefull.html" %}
-{% block title %}{{ page.title }}{% endblock %}
+{% block title %}{{ page.title|striptags }}{% endblock %}
 {% block content %}
-    <section id="content" class="body">
-        <h2 class="entry-title">{{ page.title }}</h2>
-        {% if PDF_PROCESSOR %}
-            <a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">
-                get the pdf
-            </a>
-        {% endif %}
-        <div class="entry-content">
-            {{ page.content }}
-        </div>
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h2>
+                    <a href="{{ SITEURL }}/{{ page.url }}"
+                       rel="bookmark"
+                       title="Permalink to {{ page.title|striptags }}">
+                        {{ page.title }}
+                    </a>
+                </h2>
+            </header>
+            <div class="entry-content">
+                {{ page.content }}
+            </div>
+        </article>
     </section>
+
 {% endblock %}
