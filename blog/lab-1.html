@@ -3,7 +3,7 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>Lab 1</title>
+    <title>Lab 1</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -12,14 +12,14 @@
     <!-- Open Graph tags -->
 
             <meta property="og:type" content="article"/>
-            <meta property="og:title" content="Lab 1"/>
+            <meta property="og:title" content="Lab 1"/>
             <meta property="og:url" content="http://lxprior.github.io/perstmpl/blog/lab-1.html"/>
-            <meta property="og:description" content="The 1st lab is on python, pandas, and matplotlib."/>
+            <meta property="og:description" content="The 1st lab is on python, pandas, and matplotlib."/>
 
     <!-- Bootstrap -->
         <link rel="stylesheet" href="http://lxprior.github.io/perstmpl/theme/css/bootstrap.sandstone.min.css" type="text/css"/>
     <link href="http://lxprior.github.io/perstmpl/theme/css/font-awesome.min.css" rel="stylesheet">
-    <link href="http://lxprior.github.io/perstmpl/theme/css/pygments.css" rel="stylesheet">
+    <link href="http://lxprior.github.io/perstmpl/theme/css/pygments/pygments.css" rel="stylesheet">
     <link rel="stylesheet" href="http://lxprior.github.io/perstmpl/theme/css/style.css" type="text/css"/>
     <!-- JavaScript plugins (requires jQuery) -->
     <script src="http://code.jquery.com/jquery.js"></script>
@@ -112,11 +112,9 @@ init_mathjax();
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                    <li><a href="http://lxprior.github.io/perstmpl/schedule.html">Schedule</a></li>
-                    <li><a href="http://lxprior.github.io/perstmpl/syllabus.html">Syllabus</a></li>
-                    <li><a href="http://lxprior.github.io/perstmpl/policies.html">Policies</a></li>
-                    <li><a href="http://lxprior.github.io/perstmpl/resources.html">Resources</a></li>
-                    <li><a href="http://lxprior.github.io/perstmpl/contact.html">Contact</a></li>
+                    <li><a href="http://lxprior.github.io/perstmpl/blog_index.html">Blog</a></li>
+                    <li><a href="http://www.lxprior.com">LxPrior</a></li>
+                    <li><a href="http://lxprior.github.io/perstmpl/about.html">About</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="http://lxprior.github.io/perstmpl/archives.html"><i class="icon-th-list"></i>Archives</a></li>
@@ -135,8 +133,8 @@ init_mathjax();
                 <h2>
                     <a href="http://lxprior.github.io/perstmpl/blog/lab-1.html"
                        rel="bookmark"
-                       title="Permalink to Lab 1">
-                        Lab 1
+                       title="Permalink to Lab 1">
+                        Lab&nbsp;1
                     </a>
                 </h2>
             </header>
@@ -155,10 +153,13 @@ init_mathjax();
 
 <span class="label label-default">Tags</span>
 	<a href="http://lxprior.github.io/perstmpl/tag/labs.html">labs</a>
+    <span class="pull-right">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="rahuldave">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+    </span>
 </footer><!-- /.post-info -->                    </div>
                 </div>
                 <p>Install <a href="{filename}../posts/installpython.md">instructions for the Anaconda stack</a>.</p>
-<p>A video of this lab will soon be available.</p>
+<p>A video of this lab will soon be&nbsp;available.</p>
 <p>You can download this lab <a href="{filename}/../../static/lab1.zip">here</a>.</p>
 <p>
 <div class="cell border-box-sizing text_cell rendered">
@@ -176,7 +177,7 @@ init_mathjax();
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="-1-preliminary-plotting-stuff-to-get-things-going">-1. Preliminary plotting stuff to get things going</h3>
+<h3 id="-1-preliminary-plotting-stuff-to-get-things-going">-1. Preliminary plotting stuff to get things&nbsp;going</h3>
 </div>
 </div>
 </div>
@@ -207,10 +208,10 @@ In&nbsp;[1]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="0-preliminaries-about-python">0. Preliminaries about Python</h3>
-<p>In working with python I always remember: a python is a duck.</p>
-<p>What I mean is, python has a certain way of doing things. For example lets call one of these ways listiness. Listiness works on lists, dictionaries, files, and a general notion of something called an iterator.</p>
-<p>But first, lets introduce the notion of a comprehension. Its a way of constructing a list</p>
+<h3 id="0-preliminaries-about-python">0. Preliminaries about&nbsp;Python</h3>
+<p>In working with python I always remember: a python is a&nbsp;duck.</p>
+<p>What I mean is, python has a certain way of doing things. For example lets call one of these ways listiness. Listiness works on lists, dictionaries, files, and a general notion of something called an&nbsp;iterator.</p>
+<p>But first, lets introduce the notion of a comprehension. Its a way of constructing a&nbsp;list</p>
 </div>
 </div>
 </div>
@@ -298,7 +299,7 @@ In&nbsp;[3]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Thats a strange type. But its really a duck.</p>
+<p>Thats a strange type. But its really a&nbsp;duck.</p>
 </div>
 </div>
 </div>
@@ -341,7 +342,7 @@ In&nbsp;[4]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>This next one is very usefil in combining lists together...</p>
+<p>This next one is very usefil in combining lists&nbsp;together&#8230;</p>
 </div>
 </div>
 </div>
@@ -384,7 +385,7 @@ In&nbsp;[5]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Open files behave like lists too!</p>
+<p>Open files behave like lists&nbsp;too!</p>
 </div>
 </div>
 </div>
@@ -425,7 +426,7 @@ In&nbsp;[6]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>And so do dictionaries. But know what you are accessing:</p>
+<p>And so do dictionaries. But know what you are&nbsp;accessing:</p>
 </div>
 </div>
 </div>
@@ -466,7 +467,7 @@ In&nbsp;[7]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><code>xrange</code> is another duck!</p>
+<p><code>xrange</code> is another&nbsp;duck!</p>
 </div>
 </div>
 </div>
@@ -512,7 +513,7 @@ In&nbsp;[8]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>From python 2.7 onwards you can construct dictionaries using dictionary comprehensions:</p>
+<p>From python 2.7 onwards you can construct dictionaries using dictionary&nbsp;comprehensions:</p>
 </div>
 </div>
 </div>
@@ -555,7 +556,7 @@ In&nbsp;[9]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>create a dictionary with keys the integers upto and including 10, and values the cubes of these dictionaries</p>
+<p>create a dictionary with keys the integers upto and including 10, and values the cubes of these&nbsp;dictionaries</p>
 </div>
 </div>
 </div>
@@ -609,7 +610,7 @@ In&nbsp;[10]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="1-the-olive-oils-dataset">1. The Olive Oils dataset</h3>
+<h3 id="1-the-olive-oils-dataset">1. The Olive Oils&nbsp;dataset</h3>
 </div>
 </div>
 </div>
@@ -618,7 +619,7 @@ In&nbsp;[10]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Some of the following text is taken from the rggobi book (<a href="http://www.ggobi.org/book/">http://www.ggobi.org/book/</a>). It is an excellent book on visualization and EDA for classification, and is available freely as a pdf from Hollis for those with a Harvard Id. Even though the book uses ggobi, a lot of the same analysis can be done in Mondrian or directly in Matplotlib/Pandas (albeit not interactively).</p>
+<p>Some of the following text is taken from the rggobi book (<a href="http://www.ggobi.org/book/">http://www.ggobi.org/book/</a>). It is an excellent book on visualization and <span class="caps">EDA</span> for classification, and is available freely as a pdf from Hollis for those with a Harvard Id. Even though the book uses ggobi, a lot of the same analysis can be done in Mondrian or directly in Matplotlib/Pandas (albeit not&nbsp;interactively).</p>
 </div>
 </div>
 </div>
@@ -629,8 +630,8 @@ In&nbsp;[10]:
 <div class="text_cell_render border-box-sizing rendered_html">
 <hr/>
 
-<p>&quot;The Olive Oils data has eight explanatory variables (levels of fatty acids in the oils) and nine classes (areas of Italy). The goal of the analysis is to develop rules that reliably distinguish oils from the nine different areas. It is a problem of practical interest, because oil from some areas is more highly valued and unscrupulous suppliers sometimes make false claims about the origin of their oil. The content of the oils is a subject of study in its own right: Olive oil has high nutritional value, and some of its constituent fatty acids are considered to be more beneficial than others.&quot;</p>
-<p>In addition, fatty acid contents vary with climate: this information is important in deciding which varieties to grow where.</p>
+<p>&quot;The Olive Oils data has eight explanatory variables (levels of fatty acids in the oils) and nine classes (areas of Italy). The goal of the analysis is to develop rules that reliably distinguish oils from the nine different areas. It is a problem of practical interest, because oil from some areas is more highly valued and unscrupulous suppliers sometimes make false claims about the origin of their oil. The content of the oils is a subject of study in its own right: Olive oil has high nutritional value, and some of its constituent fatty acids are considered to be more beneficial than&nbsp;others.&quot;</p>
+<p>In addition, fatty acid contents vary with climate: this information is important in deciding which varieties to grow&nbsp;where.</p>
 </div>
 </div>
 </div>
@@ -639,15 +640,15 @@ In&nbsp;[10]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>&quot;Source: Forina, M., Armanino, C., Lanteri, S. &amp; Tiscornia, E. (1983), Classification of Olive Oils from their Fatty Acid Composition, in Martens, H. and
+<p>&quot;Source: Forina, M., Armanino, C., Lanteri, S. <span class="amp">&amp;</span> Tiscornia, E. (1983), Classification of Olive Oils from their Fatty Acid Composition, in Martens, H. and
 Russwurm Jr., H., eds, Food Research and Data Analysis, Applied Science
 Publishers, London, pp. 189–214. It was brought to our attention by Glover
-&amp; Hopke (1992).</p>
-<p>Number of rows: 572</p>
-<p>Number of variables: 10</p>
+<span class="amp">&amp;</span> Hopke&nbsp;(1992).</p>
+<p>Number of rows:&nbsp;572</p>
+<p>Number of variables:&nbsp;10</p>
 <p>Description: This data consists of the percentage composition of fatty acids
 found in the lipid fraction of Italian olive oils. The data arises from a study
-to determine the authenticity of an olive oil.&quot;</p>
+to determine the authenticity of an olive&nbsp;oil.&quot;</p>
 <hr/>
 </div>
 </div>
@@ -1248,8 +1249,8 @@ bMlLJqADBBgB2JKhQAACvBCALXnJBHSAACMAWzIUCECAFwKwJS+ZgA4QYARgS4YCAQjwQgC25CUT
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>In working with pandas and matplotlib I dont always remember the syntax. A programmer is a good tool for converting Stack Overflow snippets into code. I almost always put what I am trying to do into google and go from there. </p>
-<p>That said, I found the following links very useful in understanding the Pandas mode, how things work.</p>
+<p>In working with pandas and matplotlib I dont always remember the syntax. A programmer is a good tool for converting Stack Overflow snippets into code. I almost always put what I am trying to do into google and go from&nbsp;there. </p>
+<p>That said, I found the following links very useful in understanding the Pandas mode, how things&nbsp;work.</p>
 <ul>
 <li><a href="http://blog.yhathq.com/posts/R-and-pandas-and-what-ive-learned-about-each.html">http://blog.yhathq.com/posts/R-and-pandas-and-what-ive-learned-about-each.html</a></li>
 <li><a href="http://www.bearrelroll.com/2013/05/python-pandas-tutorial/">http://www.bearrelroll.com/2013/05/python-pandas-tutorial/</a></li>
@@ -1263,7 +1264,7 @@ bMlLJqADBBgB2JKhQAACvBCALXnJBHSAACMAWzIUCECAFwKwJS+ZgA4QYARgS4YCAQjwQgC25CUT
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="2-loading-and-cleaning">2. Loading and Cleaning</h3>
+<h3 id="2-loading-and-cleaning">2. Loading and&nbsp;Cleaning</h3>
 </div>
 </div>
 </div>
@@ -1272,7 +1273,7 @@ bMlLJqADBBgB2JKhQAACvBCALXnJBHSAACMAWzIUCECAFwKwJS+ZgA4QYARgS4YCAQjwQgC25CUT
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Let&#39;s load the olive oil dataset into a pandas dataframe and have a look at the first 5 rows.</p>
+<p>Let&#39;s load the olive oil dataset into a pandas dataframe and have a look at the first 5&nbsp;rows.</p>
 </div>
 </div>
 </div>
@@ -1404,7 +1405,7 @@ In&nbsp;[12]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Let&#39;s rename that ugly first column. </p>
+<p>Let&#39;s rename that ugly first&nbsp;column. </p>
 <p><em>Hint</em>: A Google search for &#39;python pandas dataframe rename&#39; points you at this <a href="http://pandas.pydata.org/pandas-docs/dev/generated/pandas.DataFrame.rename.html">documentation</a>.</p>
 </div>
 </div>
@@ -1459,7 +1460,7 @@ Index([u&apos;areastring&apos;, u&apos;region&apos;, u&apos;area&apos;, u&apos;p
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Let&#39;s explore. Which unique regions and areas are contained in the dataset?</p>
+<p>Let&#39;s explore. Which unique regions and areas are contained in the&nbsp;dataset?</p>
 </div>
 </div>
 </div>
@@ -1501,7 +1502,7 @@ areas	[1 2 3 4 5 6 9 7 8]
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Let&#39;s create a <em>crosstab</em>ulation or contingency table of the factors.</p>
+<p>Let&#39;s create a <em>crosstab</em>ulation or contingency table of the&nbsp;factors.</p>
 <p><em>Hint</em>: A Google search for &#39;python pandas cross tabulation&#39; points you at this <a href="http://pandas.pydata.org/pandas-docs/stable/reshaping.html#cross-tabulations">documentation</a>.</p>
 </div>
 </div>
@@ -1615,7 +1616,7 @@ In&nbsp;[15]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Do we need to clean the dataset before we can explore it a little more? Let&#39;s have a look.</p>
+<p>Do we need to clean the dataset before we can explore it a little more? Let&#39;s have a&nbsp;look.</p>
 </div>
 </div>
 </div>
@@ -1878,7 +1879,7 @@ In&nbsp;[17]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>To access a specific subset of columns of a dataframe, we can use list indexing.</p>
+<p>To access a specific subset of columns of a dataframe, we can use list&nbsp;indexing.</p>
 </div>
 </div>
 </div>
@@ -1955,7 +1956,7 @@ In&nbsp;[18]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Notice that this returns a new object of type DataFrame.</p>
+<p>Notice that this returns a new object of type&nbsp;DataFrame.</p>
 </div>
 </div>
 </div>
@@ -1964,7 +1965,7 @@ In&nbsp;[18]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>To access the series of entries of a single column, we could do the following.</p>
+<p>To access the series of entries of a single column, we could do the&nbsp;following.</p>
 </div>
 </div>
 </div>
@@ -2035,7 +2036,7 @@ Name: palmitic, Length: 572, dtype: int64
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Notice the difference in the syntax. In the first example where we used list indexing we got a new DataFrame. In the second example we got a series corresponding to the column. </p>
+<p>Notice the difference in the syntax. In the first example where we used list indexing we got a new DataFrame. In the second example we got a series corresponding to the&nbsp;column. </p>
 </div>
 </div>
 </div>
@@ -2077,7 +2078,7 @@ type of df[&apos;palmitic&apos;]:		&lt;class &apos;pandas.core.series.Series&apo
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>To access the series of values of a single column more conveniently, we can do this:</p>
+<p>To access the series of values of a single column more conveniently, we can do&nbsp;this:</p>
 </div>
 </div>
 </div>
@@ -2196,7 +2197,7 @@ array([&apos;North-Apulia&apos;, &apos;Calabria&apos;, &apos;South-Apulia&apos;,
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Create a new dataframe <code>dfsub</code> by taking the list of acids and using pandas&#39; <code>apply</code> function to divide all values by 100.</p>
+<p>Create a new dataframe <code>dfsub</code> by taking the list of acids and using pandas&#39; <code>apply</code> function to divide all values by&nbsp;100.</p>
 <p>If you&#39;re not familiar with pandas&#39; <code>apply</code> function, a Google search for &#39;python pandas dataframe apply&#39; points you to the <a href="http://pandas.pydata.org/pandas-docs/dev/generated/pandas.DataFrame.apply.html">documentation</a></p>
 </div>
 </div>
@@ -2315,7 +2316,7 @@ In&nbsp;[23]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Notice that we can replace part of the dataframe by this new frame. Since we need the percentages, let&#39;s do this. The <code>Oleic</code> percentages should be in the 70s and 80s if you did this right.</p>
+<p>Notice that we can replace part of the dataframe by this new frame. Since we need the percentages, let&#39;s do this. The <code>Oleic</code> percentages should be in the 70s and 80s if you did this&nbsp;right.</p>
 </div>
 </div>
 </div>
@@ -2908,7 +2909,7 @@ dtype: float64)
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="3-quick-intro-to-numpy-and-matplotlib">3. Quick Intro to Numpy and Matplotlib</h3>
+<h3 id="3-quick-intro-to-numpy-and-matplotlib">3. Quick Intro to Numpy and&nbsp;Matplotlib</h3>
 </div>
 </div>
 </div>
@@ -2926,7 +2927,7 @@ dtype: float64)
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="lets-start-with-numpy">Lets start with numpy</h4>
+<h4 id="lets-start-with-numpy">Lets start with&nbsp;numpy</h4>
 </div>
 </div>
 </div>
@@ -3677,7 +3678,7 @@ array([ 0.05230491,  0.91185191,  0.20743992])
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="moving-on-to-matplotlib">Moving on to matplotlib</h4>
+<h4 id="moving-on-to-matplotlib">Moving on to&nbsp;matplotlib</h4>
 </div>
 </div>
 </div>
@@ -4791,7 +4792,7 @@ rkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>There are many many more kinds of plots.</p>
+<p>There are many many more kinds of&nbsp;plots.</p>
 </div>
 </div>
 </div>
@@ -4800,7 +4801,7 @@ rkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>A more object oriented approach sees us using the <code>subplots</code> function to set both figure and axis.</p>
+<p>A more object oriented approach sees us using the <code>subplots</code> function to set both figure and&nbsp;axis.</p>
 </div>
 </div>
 </div>
@@ -6693,7 +6694,7 @@ gg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Lets use the above method to make scatterplots of the acids in the list <code>yacids</code> against the acids in the list <code>xacids</code>. As the names suggest, plot the acids in <code>yacids</code> along the y axis and the acids in <code>xacids</code> along the x axis. Label the axes with the respective acid name. Set it up as a grid with 3 rows and 2 columns.</p>
+<p>Lets use the above method to make scatterplots of the acids in the list <code>yacids</code> against the acids in the list <code>xacids</code>. As the names suggest, plot the acids in <code>yacids</code> along the y axis and the acids in <code>xacids</code> along the x axis. Label the axes with the respective acid name. Set it up as a grid with 3 rows and 2&nbsp;columns.</p>
 </div>
 </div>
 </div>
@@ -9989,12 +9990,12 @@ RERk4z+w7sCywuhUdgAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="4-numpy-and-some-stats">4. Numpy, and some stats</h3>
-<p>(From Shalizi). In the real world we only always deal with samples from populations. We assume that whatever it is that gave us our data is well-modeled by some random process. In effect, each time we make a measurement, we ask the process to spit out numbers according to some distribution; we sample the distribution. If we think of sampling as closing our eyes and picking a data point out of a box, we call the set of all data-points in the box the population. (That last isn’t as silly as it sounds; think of opinion polls.) In either case, we assume that the true distribution is the unknown one which lies behind our data. If we want to learn about that distribution from the data, then we need to know something about the kind of data it is likely to give us. That is to say, we need to know the sampling distribution, the distribution of data values given that the true distribution takes a certain functional form, with certain parameter values, and we sample from it in a specified way.</p>
-<p>In the next two sections, $X_1, X_2 . . .X_n . . .$ are independent, identically-distributed
-(IID) random variables. X has the finite mean μ. The average of the first n of
-them is</p>
-<p>$$ S_n \equiv \frac{1}{n} \sum_{i=1}^{n} X_i $$</p>
+<h3 id="4-numpy-and-some-stats">4. Numpy, and some&nbsp;stats</h3>
+<p>(From Shalizi). In the real world we only always deal with samples from populations. We assume that whatever it is that gave us our data is well-modeled by some random process. In effect, each time we make a measurement, we ask the process to spit out numbers according to some distribution; we sample the distribution. If we think of sampling as closing our eyes and picking a data point out of a box, we call the set of all data-points in the box the population. (That last isn’t as silly as it sounds; think of opinion polls.) In either case, we assume that the true distribution is the unknown one which lies behind our data. If we want to learn about that distribution from the data, then we need to know something about the kind of data it is likely to give us. That is to say, we need to know the sampling distribution, the distribution of data values given that the true distribution takes a certain functional form, with certain parameter values, and we sample from it in a specified&nbsp;way.</p>
+<p>In the next two sections, $X_1, X_2 &#8230;X_n &#8230;$ are independent, identically-distributed
+(<span class="caps">IID</span>) random variables. X has the finite mean μ. The average of the first n of
+them&nbsp;is</p>
+<p>$$ S_n \equiv \frac{1}{n} \sum_{i=1}^{n} X_i&nbsp;$$</p>
 </div>
 </div>
 </div>
@@ -10003,33 +10004,33 @@ them is</p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="the-law-of-large-numbers">The Law of Large Numbers</h4>
+<h4 id="the-law-of-large-numbers">The Law of Large&nbsp;Numbers</h4>
 <p>(From Shalizi)
-The means of IID sequences converge to the mean of the variable (if E|X| &lt; $\infty$):</p>
-<p>$$S_n \rightarrow \mu$$ </p>
+The means of <span class="caps">IID</span> sequences converge to the mean of the variable (if E|X| &lt;&nbsp;$\infty$):</p>
+<p>$$S_n \rightarrow&nbsp;\mu$$ </p>
 <p>as </p>
-<p>$$n \rightarrow \infty$$</p>
-<p>That is, the sample mean approaches the population mean.</p>
-<p>The obvious application of the law of large numbers is to take our favorite event A from any probability distribution we like, with random variable Y , and then apply an indicator function I(A) to Y , a function which gives 1 when its input is in in A and 0 otherwise. Now we have a Bernoulli random variable with parameter p = P(A). So if we take a long sequence of random trials, then with probability one the frequency of successes will converge to the true probability .</p>
+<p>$$n \rightarrow&nbsp;\infty$$</p>
+<p>That is, the sample mean approaches the population&nbsp;mean.</p>
+<p>The obvious application of the law of large numbers is to take our favorite event A from any probability distribution we like, with random variable Y , and then apply an indicator function I(A) to Y , a function which gives 1 when its input is in in A and 0 otherwise. Now we have a Bernoulli random variable with parameter p = P(A). So if we take a long sequence of random trials, then with probability one the frequency of successes will converge to the true probability&nbsp;.</p>
 <p>If you simulate many samples of a population, then the laws of large numbers
 tell us the the empirical frequencies of your simulations will approach the actual
 sampling distribution. This is called “Monte Carlo simulation”, or even “the
 Monte Carlo method”. (Several other things are also called Monte Carlo, but
 they’re actually related.) By the same procedure, you can get the sampling
-distribution for an arbitrary statistic of your data.</p>
-<h4 id="central-limit-theorem">Central Limit Theorem</h4>
+distribution for an arbitrary statistic of your&nbsp;data.</p>
+<h4 id="central-limit-theorem">Central Limit&nbsp;Theorem</h4>
 <p>(Again, Shalizi).
-Assume that $X$ has a finite population variance $\sigma^2$. Then as $n \rightarrow \infty$, the $S_n$ converge to a Gaussian random variable with mean $\mu$ and variance $\sigma^2$.</p>
-<p>More prosaicly: the CLT tells us that, if only we can arrange to be dealing
-with IID sequences, in the long run we know what the distribution must be.
+Assume that $X$ has a finite population variance $\sigma^2$. Then as $n \rightarrow \infty$, the $S_n$ converge to a Gaussian random variable with mean $\mu$ and variance&nbsp;$\sigma^2$.</p>
+<p>More prosaicly: the <span class="caps">CLT</span> tells us that, if only we can arrange to be dealing
+with <span class="caps">IID</span> sequences, in the long run we know what the distribution must be.
 Even better, it’s always the same distribution; still better, it’s one which is
 remarkably easy to deal with, and for which we have a huge amount of theory.
-Manipulate your problem so that the CLT applies, and, at least asymptotically,
-you’ve got it made.</p>
-<p>It’s generally true that, whatever measure of variability we pick, its value in a sample will tend to be smaller than its population value. (We have already mentioned that this is true of the variance.) It’s not hard to see why this should be so; consider, as an extreme case, the limit where our sample consists of a single piece of data, and so there is no variation in the sample. More generally, picking out a subset from the population, which is what sampling does, is unlikely to give an exactly representative sample, and naturally the higher probability events will be the ones which tend to show up in the sample.</p>
-<h4 id="sampling-and-de-moivre-s-formula-">Sampling and De-Moivre&#39;s formula:</h4>
-<p>The standard deviation of the sampling distribution of the mean is given as:</p>
-<p>$$\sigma_{sample} = \frac{\sigma}{\sqrt{N_{sample}}}$$</p>
+Manipulate your problem so that the <span class="caps">CLT</span> applies, and, at least asymptotically,
+you’ve got it&nbsp;made.</p>
+<p>It’s generally true that, whatever measure of variability we pick, its value in a sample will tend to be smaller than its population value. (We have already mentioned that this is true of the variance.) It’s not hard to see why this should be so; consider, as an extreme case, the limit where our sample consists of a single piece of data, and so there is no variation in the sample. More generally, picking out a subset from the population, which is what sampling does, is unlikely to give an exactly representative sample, and naturally the higher probability events will be the ones which tend to show up in the&nbsp;sample.</p>
+<h4 id="sampling-and-de-moivre-s-formula-">Sampling and De-Moivre&#39;s&nbsp;formula:</h4>
+<p>The standard deviation of the sampling distribution of the mean is given&nbsp;as:</p>
+<p>$$\sigma_{sample} =&nbsp;\frac{\sigma}{\sqrt{N_{sample}}}$$</p>
 </div>
 </div>
 </div>
@@ -10086,7 +10087,7 @@ array([ 0.8,  0.6,  0.2,  0.6,  0.4,  0.5,  0.8,  0.4,  0.7,  0.5,  0.6,
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <blockquote>
-<p>as a function of the size of the samples</p>
+<p>as a function of the size of the&nbsp;samples</p>
 </blockquote>
 </div>
 </div>
@@ -10848,7 +10849,7 @@ BQ4AgIUocAAALPRv4zVHSL5uNJ8AAAAASUVORK5CYII=
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <blockquote>
-<p>As a function of the number of samples</p>
+<p>As a function of the number of&nbsp;samples</p>
 </blockquote>
 </div>
 </div>
@@ -11788,7 +11789,7 @@ Bf0PCA1urJbui44AAAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="5-pandas-data-munging-indexing-plotting">5. Pandas Data Munging, indexing, plotting</h3>
+<h3 id="5-pandas-data-munging-indexing-plotting">5. Pandas Data Munging, indexing,&nbsp;plotting</h3>
 </div>
 </div>
 </div>
@@ -12113,7 +12114,7 @@ In&nbsp;[62]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The function <code>groupby</code> gives you a dictionary-like object, with the keys being the values of the factor, and the values being the corresponding subsets of the dataframe.</p>
+<p>The function <code>groupby</code> gives you a dictionary-like object, with the keys being the values of the factor, and the values being the corresponding subsets of the&nbsp;dataframe.</p>
 </div>
 </div>
 </div>
@@ -12608,7 +12609,7 @@ In&nbsp;[64]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>One might let pandas take care of concatenating the series obtained by running <code>std</code> on each dataframe back into a dataframe for us. Notice that the output dataframe is automatically indexed by region for us!</p>
+<p>One might let pandas take care of concatenating the series obtained by running <code>std</code> on each dataframe back into a dataframe for us. Notice that the output dataframe is automatically indexed by region for&nbsp;us!</p>
 </div>
 </div>
 </div>
@@ -12716,7 +12717,7 @@ In&nbsp;[65]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Or one can use <code>aggregate</code> to pass an arbitrary function of to the sub-dataframe. The function is applied columnwise.</p>
+<p>Or one can use <code>aggregate</code> to pass an arbitrary function of to the sub-dataframe. The function is applied&nbsp;columnwise.</p>
 </div>
 </div>
 </div>
@@ -12824,7 +12825,7 @@ In&nbsp;[66]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Or one can use <code>apply</code> to pass an arbitrary function to the sub-dataframe. This one takes the dataframe as argument.</p>
+<p>Or one can use <code>apply</code> to pass an arbitrary function to the sub-dataframe. This one takes the dataframe as&nbsp;argument.</p>
 </div>
 </div>
 </div>
@@ -13047,7 +13048,7 @@ In&nbsp;[68]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Pandas can do general merges. When we do that along an index, it&#39;s called a <code>join</code> (<a href="http://pandas.pydata.org/pandas-docs/dev/generated/pandas.DataFrame.join.html">documentation</a>). Here we make two sub-dataframes and join them on the common region index.</p>
+<p>Pandas can do general merges. When we do that along an index, it&#39;s called a <code>join</code> (<a href="http://pandas.pydata.org/pandas-docs/dev/generated/pandas.DataFrame.join.html">documentation</a>). Here we make two sub-dataframes and join them on the common region&nbsp;index.</p>
 </div>
 </div>
 </div>
@@ -13160,7 +13161,7 @@ In&nbsp;[70]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Let&#39;s get a dataframe with just the acids.</p>
+<p>Let&#39;s get a dataframe with just the&nbsp;acids.</p>
 </div>
 </div>
 </div>
@@ -13264,7 +13265,7 @@ In&nbsp;[71]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Let&#39;s make a bar plot of the relative mean percentages of the acids. In pandas this is as simple as:</p>
+<p>Let&#39;s make a bar plot of the relative mean percentages of the acids. In pandas this is as simple&nbsp;as:</p>
 </div>
 </div>
 </div>
@@ -13677,7 +13678,7 @@ dMgpHMqDhbgAAAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>You can make a mask!</p>
+<p>You can make a&nbsp;mask!</p>
 </div>
 </div>
 </div>
@@ -13752,7 +13753,7 @@ Name: eicosenoic, Length: 572, dtype: bool
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The first gives a count, the second is a shortcut to get a probability!</p>
+<p>The first gives a count, the second is a shortcut to get a&nbsp;probability!</p>
 </div>
 </div>
 </div>

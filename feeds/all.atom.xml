@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TIG</title><link href="http://lxprior.github.io/perstmpl/" rel="alternate"></link><link href="http://lxprior.github.io/perstmpl/feeds/all.atom.xml" rel="self"></link><id>http://lxprior.github.io/perstmpl/</id><updated>2014-10-31T09:07:31+01:00</updated><entry><title>Homework 1</title><link href="http://lxprior.github.io/perstmpl/blog/homework-1.html" rel="alternate"></link><updated>2014-10-31T09:07:31+01:00</updated><author><name>Pavlos Protopapas</name></author><id>tag:lxprior.github.io,2014-10-31:perstmpl/blog/homework-1.html</id><summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TIG</title><link href="http://lxprior.github.io/perstmpl/" rel="alternate"></link><link href="http://lxprior.github.io/perstmpl/feeds/all.atom.xml" rel="self"></link><id>http://lxprior.github.io/perstmpl/</id><updated>2014-10-31T12:08:51+01:00</updated><entry><title>Homework 1</title><link href="http://lxprior.github.io/perstmpl/blog/homework-1.html" rel="alternate"></link><updated>2014-10-31T12:08:51+01:00</updated><author><name>Pavlos Protopapas</name></author><id>tag:lxprior.github.io,2014-10-31:perstmpl/blog/homework-1.html</id><summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+proident, sunt in culpa qui officia deserunt mollit anim id est&amp;nbsp;laborum.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est&amp;nbsp;laborum.&lt;/p&gt;
 &lt;div class="aside"&gt; This is an aside&lt;/div&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -12,7 +18,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+proident, sunt in culpa qui officia deserunt mollit anim id est&amp;nbsp;laborum.&lt;/p&gt;
 &lt;div class="aside"&gt; This is an aside.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua.
 &lt;/div&gt;
@@ -22,7 +28,7 @@ tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+proident, sunt in culpa qui officia deserunt mollit anim id est&amp;nbsp;laborum.&lt;/p&gt;
 &lt;p&gt;You can download this homework &lt;a href="{filename}/../../notebooks/HW1.ipynb"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;
@@ -30,7 +36,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h1 id="AM-207:-Homework-1"&gt;&lt;strong&gt;AM 207&lt;/strong&gt;: Homework 1&lt;a class="anchor-link" href="#AM-207:-Homework-1"&gt;&amp;#182;&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id="AM-207:-Homework-1"&gt;&lt;strong&gt;&lt;span class="caps"&gt;AM&lt;/span&gt; 207&lt;/strong&gt;: Homework 1&lt;a class="anchor-link" href="#AM-207:-Homework-1"&gt;&amp;#182;&lt;/a&gt;&lt;/h1&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -43,16 +49,16 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
 &lt;hr&gt;
 &lt;p&gt;Pavlos Protopapas &lt;br&gt;
 Handed out: Thursday, February 6th, 2014&lt;br&gt;
-Due: 11.59 P.M. Wednesday February 12th, 2014&lt;/p&gt;
+Due: 11.59 &lt;span class="caps"&gt;P.M.&lt;/span&gt; Wednesday February 12th,&amp;nbsp;2014&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Instructions&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Upload your answers in an ipython notebook to the dropbox.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Upload your answers in an ipython notebook to the&amp;nbsp;dropbox.&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Your individual submissions use the following filenames: AM207_YOURNAME_HM1.ipynb&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Your individual submissions use the following filenames:&amp;nbsp;AM207_YOURNAME_HM1.ipynb&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Your code should be in code cells as part of your ipython notebook. Do not use a different language (or format) unless you get permission from the TFs. If you use any special libraries you must include them with your code (program should run as is). &lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Your code should be in code cells as part of your ipython notebook. Do not use a different language (or format) unless you get permission from the TFs. If you use any special libraries you must include them with your code (program should run as&amp;nbsp;is). &lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;If you have multiple files (e.g. you&amp;#39;ve added code files and images) create a tarball for all files in a single file and name it: AM207_YOURNAME_HM1.tar or AM207_YOURNAME_HM1.zip&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;If you have multiple files (e.g. you&amp;#39;ve added code files and images) create a tarball for all files in a single file and name it: AM207_YOURNAME_HM1.tar or&amp;nbsp;AM207_YOURNAME_HM1.zip&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -64,7 +70,7 @@ Due: 11.59 P.M. Wednesday February 12th, 2014&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="Question-1:--We'll-always-have-Pareto"&gt;Question 1:  We'll always have Pareto&lt;a class="anchor-link" href="#Question-1:--We'll-always-have-Pareto"&gt;&amp;#182;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="Question-1:--We'll-always-have-Pareto"&gt;Question 1:  We&amp;#8217;ll always have Pareto&lt;a class="anchor-link" href="#Question-1:--We'll-always-have-Pareto"&gt;&amp;#182;&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -74,22 +80,21 @@ Due: 11.59 P.M. Wednesday February 12th, 2014&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;If X is a random variable with a Pareto distribution, then the probability that X is greater than some number x, i.e. the survival function (also called tail function), is given by:&lt;/p&gt;
+&lt;p&gt;If X is a random variable with a Pareto distribution, then the probability that X is greater than some number x, i.e. the survival function (also called tail function), is given&amp;nbsp;by:&lt;/p&gt;
 &lt;p&gt;$$
-P(X &amp;gt; x) = \left(\frac{\alpha}{x}\right)^{\beta} \hspace{1cm}   x \ge \alpha\\
+P(X &amp;gt; x) = \left(\frac{\alpha}{x}\right)^{\beta} \hspace{1cm}   x \ge \alpha&amp;#92;
 $$
 $$
-P(X &amp;gt; x)  = 1 \hspace{1cm}   x \lt \alpha
-$$&lt;/p&gt;
-&lt;p&gt;where $\alpha$ is the (necessarily positive) minimum possible value of X, and $\beta$ is a positive parameter, which is known as the tail index.&lt;/p&gt;
-&lt;p&gt;Pareto originally used this distribution to describe how wealth is allocated amongst individuals, and the distribution of income. $\beta$ is used to describe this allocation ratio: the 80/20 rule where 20 percent of the people have 80 percent of the wealth corresponds to $\beta ~ 1.161$.&lt;/p&gt;
-&lt;p&gt;(a) Find analytically the Pareto CDF and show that the Pareto PDF is given by:&lt;/p&gt;
-&lt;p&gt;$$ (P(x) =\frac{\beta \, \alpha^{\beta}}{x^{\beta+1}} \hspace{1cm} x\ge \alpha, \hspace{0.3cm} \alpha&amp;gt;0, \hspace{0.3cm} \beta&amp;gt;0  $$&lt;/p&gt;
-&lt;p&gt;Plot the PDF for $\beta=1.161,5$, and $\alpha=0.5,3$.&lt;/p&gt;
-&lt;p&gt;(b) Use the inverse method to to draw 10,000 samples from $X\sim {\rm Pareto}(\alpha=3, \beta=5)$. Plot a histogram of your samples.&lt;/p&gt;
+P(X &amp;gt; x)  = 1 \hspace{1cm}   x \lt \alpha&amp;nbsp;$$&lt;/p&gt;
+&lt;p&gt;where $\alpha$ is the (necessarily positive) minimum possible value of X, and $\beta$ is a positive parameter, which is known as the tail&amp;nbsp;index.&lt;/p&gt;
+&lt;p&gt;Pareto originally used this distribution to describe how wealth is allocated amongst individuals, and the distribution of income. $\beta$ is used to describe this allocation ratio: the 80/20 rule where 20 percent of the people have 80 percent of the wealth corresponds to $\beta ~&amp;nbsp;1.161$.&lt;/p&gt;
+&lt;p&gt;(a) Find analytically the Pareto &lt;span class="caps"&gt;CDF&lt;/span&gt; and show that the Pareto &lt;span class="caps"&gt;PDF&lt;/span&gt; is given&amp;nbsp;by:&lt;/p&gt;
+&lt;p&gt;$$ (P(x) =\frac{\beta \, \alpha^{\beta}}{x^{\beta+1}} \hspace{1cm} x\ge \alpha, \hspace{0.3cm} \alpha&amp;gt;0, \hspace{0.3cm} \beta&amp;gt;0&amp;nbsp;$$&lt;/p&gt;
+&lt;p&gt;Plot the &lt;span class="caps"&gt;PDF&lt;/span&gt; for $\beta=1.161,5$, and&amp;nbsp;$\alpha=0.5,3$.&lt;/p&gt;
+&lt;p&gt;(b) Use the inverse method to to draw 10,000 samples from $X\sim {\rm Pareto}(\alpha=3, \beta=5)$. Plot a histogram of your&amp;nbsp;samples.&lt;/p&gt;
 &lt;p&gt;(c) Suppose $X\sim {\rm Pareto}(\alpha=3, \beta=5)$. Use importance sampling to estimate $E[X]$ and 
-$E[X^2]$ to within 3% error. Use as the importance function any pdf that you can find in &lt;code&gt;scipy.stats&lt;/code&gt; (plot the pdf against the pareto to see which one is a good match). Generate 10,000 samples from the  pdf to obtain your estimates. &lt;/p&gt;
-&lt;p&gt;Report your estimates for $E[X]$ and $E[X^2]$ along with the estimators errors, which are to be obtained by repeatedly calculating the monte-carlo integrals 100 times. Remember that these errors must be within 3%: this will require you to experiment with different pdfs.&lt;/p&gt;
+$E[X^2]$ to within 3% error. Use as the importance function any pdf that you can find in &lt;code&gt;scipy.stats&lt;/code&gt; (plot the pdf against the pareto to see which one is a good match). Generate 10,000 samples from the  pdf to obtain your&amp;nbsp;estimates. &lt;/p&gt;
+&lt;p&gt;Report your estimates for $E[X]$ and $E[X^2]$ along with the estimators errors, which are to be obtained by repeatedly calculating the monte-carlo integrals 100 times. Remember that these errors must be within 3%: this will require you to experiment with different&amp;nbsp;pdfs.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -109,20 +114,19 @@ $E[X^2]$ to within 3% error. Use as the importance function any pdf that you can
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;p&gt;The probability distribution of the emails I received as a function of time of the day
-follows a skewed distribution which can be modeled as:&lt;/p&gt;
+follows a skewed distribution which can be modeled&amp;nbsp;as:&lt;/p&gt;
 &lt;p&gt;$$
- P(t) = \lambda \frac{t}{t^2+1} \hspace{1cm}   0 \le t \le 12 \\ \nonumber
+ P(t) = \lambda \frac{t}{t^2+1} \hspace{1cm}   0 \le t \le 12 &amp;#92; \nonumber
 $$
 $$
- P(t)  = 0 \hspace{2cm} 12 \lt t \le 24 \\ \nonumber 
-$$&lt;/p&gt;
+ P(t)  = 0 \hspace{2cm} 12 \lt t \le 24 &amp;#92; \nonumber&amp;nbsp;$$&lt;/p&gt;
 &lt;p&gt;where $t=0$ is 6:00am, $\lambda$ is a normalization constant and
-$t$ is measured in hours. &lt;/p&gt;
+$t$ is measured in&amp;nbsp;hours. &lt;/p&gt;
 &lt;p&gt; Simulate $1\times10^8$ emails arriving at times determined by the 
-distribution above&lt;/p&gt;
-&lt;p&gt;(a) Using inverse transform. Plot the histogram of the simulated event times and compare it to a plot of the true distribution. &lt;/p&gt;
-&lt;p&gt;(b) Using the rejection method. Plot the histogram of the simulated event times and compare it to a plot of the the true distribution. &lt;/p&gt;
-&lt;p&gt;(c) Time both simulations and report the times. Which one was faster and why ? &lt;/p&gt;
+distribution&amp;nbsp;above&lt;/p&gt;
+&lt;p&gt;(a) Using inverse transform. Plot the histogram of the simulated event times and compare it to a plot of the true&amp;nbsp;distribution. &lt;/p&gt;
+&lt;p&gt;(b) Using the rejection method. Plot the histogram of the simulated event times and compare it to a plot of the the true&amp;nbsp;distribution. &lt;/p&gt;
+&lt;p&gt;(c) Time both simulations and report the times. Which one was faster and why&amp;nbsp;? &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -131,7 +135,7 @@ distribution above&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="Question-3:--Valentine's-Day-Monte-Carlo"&gt;Question 3:  Valentine's Day Monte Carlo&lt;a class="anchor-link" href="#Question-3:--Valentine's-Day-Monte-Carlo"&gt;&amp;#182;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id="Question-3:--Valentine's-Day-Monte-Carlo"&gt;Question 3:  Valentine&amp;#8217;s Day Monte Carlo&lt;a class="anchor-link" href="#Question-3:--Valentine's-Day-Monte-Carlo"&gt;&amp;#182;&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -143,15 +147,15 @@ distribution above&lt;/p&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;p&gt;Valentine&amp;#39;s day is coming soon and you decided  to design a nice gift for your loved one.
 Your design is shown in the figure below (unfortunately your aesthetic sensitivities are not great).
-A sphere of radius $r_1$ consists of  gold and platinum, with densities $\rho_g$ and $\rho_p$. Gold is located only within a cylinder of radius $r_2$, as illustrated in the figure, and platinum  of density  $\rho_p$  fills up the rest of the sphere. Write a program that calculates the two moments of inertia of this sphere corresponding to rotation about the z and x axis. The inner cylinder is centered around the z-axis, as also shown in the figure.&lt;/p&gt;
-&lt;p&gt;Do the calculation for a platinum  (21090 kg/m$^3$) sphere of radius 5 cm with an inner gold (19320 kg/m$^3$) cylinder of radius 1 cm. &lt;/p&gt;
-&lt;p&gt;a) Carry out the calculation using Monte Carlo sampling of the moment of inertia integral&lt;/p&gt;
-&lt;p&gt;$$ I_{axis} = \int dx \int dy \int dz \rho (x,y,z) \, r_{axis}^2 (x,y,z) $$&lt;/p&gt;
+A sphere of radius $r_1$ consists of  gold and platinum, with densities $\rho_g$ and $\rho_p$. Gold is located only within a cylinder of radius $r_2$, as illustrated in the figure, and platinum  of density  $\rho_p$  fills up the rest of the sphere. Write a program that calculates the two moments of inertia of this sphere corresponding to rotation about the z and x axis. The inner cylinder is centered around the z-axis, as also shown in the&amp;nbsp;figure.&lt;/p&gt;
+&lt;p&gt;Do the calculation for a platinum  (21090 kg/m$^3$) sphere of radius 5 cm with an inner gold (19320 kg/m$^3$) cylinder of radius 1&amp;nbsp;cm. &lt;/p&gt;
+&lt;p&gt;a) Carry out the calculation using Monte Carlo sampling of the moment of inertia&amp;nbsp;integral&lt;/p&gt;
+&lt;p&gt;$$ I_{axis} = \int dx \int dy \int dz \rho (x,y,z) \, r_{axis}^2 (x,y,z)&amp;nbsp;$$&lt;/p&gt;
 &lt;p&gt;where $r_{axis}(x, y, z)$ is the perpendicular distance of the point (x, y, z) from the axis of rotation. 
-Calculate the values of $I_x$ and $I_z$.&lt;/p&gt;
+Calculate the values of $I_x$ and&amp;nbsp;$I_z$.&lt;/p&gt;
 &lt;p&gt;b) Do the simulation for $I_x$, $N_{s}=1000$ times and for each simulation  choose $N_{mc}$ such 
 the accuracy is $0.1\%$. Show how you estimated the accuracy and what is the value 
-of $N_{mc}$. &lt;/p&gt;
+of&amp;nbsp;$N_{mc}$. &lt;/p&gt;
 &lt;div class="figure"&gt;
 &lt;img alt="schematic" src="./files/images/HM2_fig1.png"/&gt;
 &lt;/div&gt;
@@ -174,14 +178,14 @@ of $N_{mc}$. &lt;/p&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;p&gt;Generate a random sample from the below two dimensional 
-distribution using the rejection method. &lt;/p&gt;
-&lt;p&gt;$$ P(x,y) = \exp{ \left( -(x^2+\cos(x)\, y^2) \right) }  $$&lt;/p&gt;
-&lt;p&gt;for $  -2&amp;lt;x&amp;lt;2$ and $ -2&amp;lt;y&amp;lt;2$.&lt;/p&gt;
-&lt;p&gt;(a) Plot the distribution.&lt;/p&gt;
+distribution using the rejection&amp;nbsp;method. &lt;/p&gt;
+&lt;p&gt;$$ P(x,y) = \exp{ \left( -(x^2+\cos(x)\, y^2) \right) }&amp;nbsp;$$&lt;/p&gt;
+&lt;p&gt;for $  -2&amp;lt;x&amp;lt;2$ and $&amp;nbsp;-2&amp;lt;y&amp;lt;2$.&lt;/p&gt;
+&lt;p&gt;(a) Plot the&amp;nbsp;distribution.&lt;/p&gt;
 &lt;p&gt;(b) Generate the sample and estimate the ratio of the number of objects
-you accept ($N_+$) to the number of objects you reject ($N_-$). &lt;/p&gt;
+you accept ($N_+$) to the number of objects you reject&amp;nbsp;($N_-$). &lt;/p&gt;
 &lt;p&gt;(c) Implement a rejection on steroids method for this distribution. By how much has 
-this method improved the ratio ? &lt;/p&gt;
+this method improved the ratio&amp;nbsp;? &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -199,8 +203,8 @@ In&amp;nbsp;[]:
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</summary><category term="homeworks"></category></entry><entry><title>Lab 1</title><link href="http://lxprior.github.io/perstmpl/blog/lab-1.html" rel="alternate"></link><updated>2014-10-31T08:52:59+01:00</updated><author><name>Rahul Dave</name></author><id>tag:lxprior.github.io,2014-10-31:perstmpl/blog/lab-1.html</id><summary type="html">&lt;p&gt;Install &lt;a href="{filename}../posts/installpython.md"&gt;instructions for the Anaconda stack&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;A video of this lab will soon be available.&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;</summary><category term="homeworks"></category><category term="labs"></category></entry><entry><title>Lab 1</title><link href="http://lxprior.github.io/perstmpl/blog/lab-1.html" rel="alternate"></link><updated>2014-10-31T12:08:51+01:00</updated><author><name>Rahul Dave</name></author><id>tag:lxprior.github.io,2014-10-31:perstmpl/blog/lab-1.html</id><summary type="html">&lt;p&gt;Install &lt;a href="{filename}../posts/installpython.md"&gt;instructions for the Anaconda stack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A video of this lab will soon be&amp;nbsp;available.&lt;/p&gt;
 &lt;p&gt;You can download this lab &lt;a href="{filename}/../../static/lab1.zip"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing text_cell rendered"&gt;
@@ -218,7 +222,7 @@ In&amp;nbsp;[]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="-1-preliminary-plotting-stuff-to-get-things-going"&gt;-1. Preliminary plotting stuff to get things going&lt;/h3&gt;
+&lt;h3 id="-1-preliminary-plotting-stuff-to-get-things-going"&gt;-1. Preliminary plotting stuff to get things&amp;nbsp;going&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -249,10 +253,10 @@ In&amp;nbsp;[1]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="0-preliminaries-about-python"&gt;0. Preliminaries about Python&lt;/h3&gt;
-&lt;p&gt;In working with python I always remember: a python is a duck.&lt;/p&gt;
-&lt;p&gt;What I mean is, python has a certain way of doing things. For example lets call one of these ways listiness. Listiness works on lists, dictionaries, files, and a general notion of something called an iterator.&lt;/p&gt;
-&lt;p&gt;But first, lets introduce the notion of a comprehension. Its a way of constructing a list&lt;/p&gt;
+&lt;h3 id="0-preliminaries-about-python"&gt;0. Preliminaries about&amp;nbsp;Python&lt;/h3&gt;
+&lt;p&gt;In working with python I always remember: a python is a&amp;nbsp;duck.&lt;/p&gt;
+&lt;p&gt;What I mean is, python has a certain way of doing things. For example lets call one of these ways listiness. Listiness works on lists, dictionaries, files, and a general notion of something called an&amp;nbsp;iterator.&lt;/p&gt;
+&lt;p&gt;But first, lets introduce the notion of a comprehension. Its a way of constructing a&amp;nbsp;list&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -340,7 +344,7 @@ In&amp;nbsp;[3]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Thats a strange type. But its really a duck.&lt;/p&gt;
+&lt;p&gt;Thats a strange type. But its really a&amp;nbsp;duck.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -383,7 +387,7 @@ In&amp;nbsp;[4]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;This next one is very usefil in combining lists together...&lt;/p&gt;
+&lt;p&gt;This next one is very usefil in combining lists&amp;nbsp;together&amp;#8230;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -426,7 +430,7 @@ In&amp;nbsp;[5]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Open files behave like lists too!&lt;/p&gt;
+&lt;p&gt;Open files behave like lists&amp;nbsp;too!&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -467,7 +471,7 @@ In&amp;nbsp;[6]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;And so do dictionaries. But know what you are accessing:&lt;/p&gt;
+&lt;p&gt;And so do dictionaries. But know what you are&amp;nbsp;accessing:&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -508,7 +512,7 @@ In&amp;nbsp;[7]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;&lt;code&gt;xrange&lt;/code&gt; is another duck!&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;xrange&lt;/code&gt; is another&amp;nbsp;duck!&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -554,7 +558,7 @@ In&amp;nbsp;[8]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;From python 2.7 onwards you can construct dictionaries using dictionary comprehensions:&lt;/p&gt;
+&lt;p&gt;From python 2.7 onwards you can construct dictionaries using dictionary&amp;nbsp;comprehensions:&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -597,7 +601,7 @@ In&amp;nbsp;[9]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;create a dictionary with keys the integers upto and including 10, and values the cubes of these dictionaries&lt;/p&gt;
+&lt;p&gt;create a dictionary with keys the integers upto and including 10, and values the cubes of these&amp;nbsp;dictionaries&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -651,7 +655,7 @@ In&amp;nbsp;[10]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="1-the-olive-oils-dataset"&gt;1. The Olive Oils dataset&lt;/h3&gt;
+&lt;h3 id="1-the-olive-oils-dataset"&gt;1. The Olive Oils&amp;nbsp;dataset&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -660,7 +664,7 @@ In&amp;nbsp;[10]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Some of the following text is taken from the rggobi book (&lt;a href="http://www.ggobi.org/book/"&gt;http://www.ggobi.org/book/&lt;/a&gt;). It is an excellent book on visualization and EDA for classification, and is available freely as a pdf from Hollis for those with a Harvard Id. Even though the book uses ggobi, a lot of the same analysis can be done in Mondrian or directly in Matplotlib/Pandas (albeit not interactively).&lt;/p&gt;
+&lt;p&gt;Some of the following text is taken from the rggobi book (&lt;a href="http://www.ggobi.org/book/"&gt;http://www.ggobi.org/book/&lt;/a&gt;). It is an excellent book on visualization and &lt;span class="caps"&gt;EDA&lt;/span&gt; for classification, and is available freely as a pdf from Hollis for those with a Harvard Id. Even though the book uses ggobi, a lot of the same analysis can be done in Mondrian or directly in Matplotlib/Pandas (albeit not&amp;nbsp;interactively).&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -671,8 +675,8 @@ In&amp;nbsp;[10]:
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;hr/&gt;
 
-&lt;p&gt;&amp;quot;The Olive Oils data has eight explanatory variables (levels of fatty acids in the oils) and nine classes (areas of Italy). The goal of the analysis is to develop rules that reliably distinguish oils from the nine different areas. It is a problem of practical interest, because oil from some areas is more highly valued and unscrupulous suppliers sometimes make false claims about the origin of their oil. The content of the oils is a subject of study in its own right: Olive oil has high nutritional value, and some of its constituent fatty acids are considered to be more beneficial than others.&amp;quot;&lt;/p&gt;
-&lt;p&gt;In addition, fatty acid contents vary with climate: this information is important in deciding which varieties to grow where.&lt;/p&gt;
+&lt;p&gt;&amp;quot;The Olive Oils data has eight explanatory variables (levels of fatty acids in the oils) and nine classes (areas of Italy). The goal of the analysis is to develop rules that reliably distinguish oils from the nine different areas. It is a problem of practical interest, because oil from some areas is more highly valued and unscrupulous suppliers sometimes make false claims about the origin of their oil. The content of the oils is a subject of study in its own right: Olive oil has high nutritional value, and some of its constituent fatty acids are considered to be more beneficial than&amp;nbsp;others.&amp;quot;&lt;/p&gt;
+&lt;p&gt;In addition, fatty acid contents vary with climate: this information is important in deciding which varieties to grow&amp;nbsp;where.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -681,15 +685,15 @@ In&amp;nbsp;[10]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;&amp;quot;Source: Forina, M., Armanino, C., Lanteri, S. &amp;amp; Tiscornia, E. (1983), Classification of Olive Oils from their Fatty Acid Composition, in Martens, H. and
+&lt;p&gt;&amp;quot;Source: Forina, M., Armanino, C., Lanteri, S. &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Tiscornia, E. (1983), Classification of Olive Oils from their Fatty Acid Composition, in Martens, H. and
 Russwurm Jr., H., eds, Food Research and Data Analysis, Applied Science
 Publishers, London, pp. 189–214. It was brought to our attention by Glover
-&amp;amp; Hopke (1992).&lt;/p&gt;
-&lt;p&gt;Number of rows: 572&lt;/p&gt;
-&lt;p&gt;Number of variables: 10&lt;/p&gt;
+&lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Hopke&amp;nbsp;(1992).&lt;/p&gt;
+&lt;p&gt;Number of rows:&amp;nbsp;572&lt;/p&gt;
+&lt;p&gt;Number of variables:&amp;nbsp;10&lt;/p&gt;
 &lt;p&gt;Description: This data consists of the percentage composition of fatty acids
 found in the lipid fraction of Italian olive oils. The data arises from a study
-to determine the authenticity of an olive oil.&amp;quot;&lt;/p&gt;
+to determine the authenticity of an olive&amp;nbsp;oil.&amp;quot;&lt;/p&gt;
 &lt;hr/&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1290,8 +1294,8 @@ bMlLJqADBBgB2JKhQAACvBCALXnJBHSAACMAWzIUCECAFwKwJS+ZgA4QYARgS4YCAQjwQgC25CUT
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;In working with pandas and matplotlib I dont always remember the syntax. A programmer is a good tool for converting Stack Overflow snippets into code. I almost always put what I am trying to do into google and go from there. &lt;/p&gt;
-&lt;p&gt;That said, I found the following links very useful in understanding the Pandas mode, how things work.&lt;/p&gt;
+&lt;p&gt;In working with pandas and matplotlib I dont always remember the syntax. A programmer is a good tool for converting Stack Overflow snippets into code. I almost always put what I am trying to do into google and go from&amp;nbsp;there. &lt;/p&gt;
+&lt;p&gt;That said, I found the following links very useful in understanding the Pandas mode, how things&amp;nbsp;work.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://blog.yhathq.com/posts/R-and-pandas-and-what-ive-learned-about-each.html"&gt;http://blog.yhathq.com/posts/R-and-pandas-and-what-ive-learned-about-each.html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.bearrelroll.com/2013/05/python-pandas-tutorial/"&gt;http://www.bearrelroll.com/2013/05/python-pandas-tutorial/&lt;/a&gt;&lt;/li&gt;
@@ -1305,7 +1309,7 @@ bMlLJqADBBgB2JKhQAACvBCALXnJBHSAACMAWzIUCECAFwKwJS+ZgA4QYARgS4YCAQjwQgC25CUT
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="2-loading-and-cleaning"&gt;2. Loading and Cleaning&lt;/h3&gt;
+&lt;h3 id="2-loading-and-cleaning"&gt;2. Loading and&amp;nbsp;Cleaning&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1314,7 +1318,7 @@ bMlLJqADBBgB2JKhQAACvBCALXnJBHSAACMAWzIUCECAFwKwJS+ZgA4QYARgS4YCAQjwQgC25CUT
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Let&amp;#39;s load the olive oil dataset into a pandas dataframe and have a look at the first 5 rows.&lt;/p&gt;
+&lt;p&gt;Let&amp;#39;s load the olive oil dataset into a pandas dataframe and have a look at the first 5&amp;nbsp;rows.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1446,7 +1450,7 @@ In&amp;nbsp;[12]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Let&amp;#39;s rename that ugly first column. &lt;/p&gt;
+&lt;p&gt;Let&amp;#39;s rename that ugly first&amp;nbsp;column. &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Hint&lt;/em&gt;: A Google search for &amp;#39;python pandas dataframe rename&amp;#39; points you at this &lt;a href="http://pandas.pydata.org/pandas-docs/dev/generated/pandas.DataFrame.rename.html"&gt;documentation&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1501,7 +1505,7 @@ Index([u&amp;apos;areastring&amp;apos;, u&amp;apos;region&amp;apos;, u&amp;apos;
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Let&amp;#39;s explore. Which unique regions and areas are contained in the dataset?&lt;/p&gt;
+&lt;p&gt;Let&amp;#39;s explore. Which unique regions and areas are contained in the&amp;nbsp;dataset?&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1543,7 +1547,7 @@ areas	[1 2 3 4 5 6 9 7 8]
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Let&amp;#39;s create a &lt;em&gt;crosstab&lt;/em&gt;ulation or contingency table of the factors.&lt;/p&gt;
+&lt;p&gt;Let&amp;#39;s create a &lt;em&gt;crosstab&lt;/em&gt;ulation or contingency table of the&amp;nbsp;factors.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Hint&lt;/em&gt;: A Google search for &amp;#39;python pandas cross tabulation&amp;#39; points you at this &lt;a href="http://pandas.pydata.org/pandas-docs/stable/reshaping.html#cross-tabulations"&gt;documentation&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1657,7 +1661,7 @@ In&amp;nbsp;[15]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Do we need to clean the dataset before we can explore it a little more? Let&amp;#39;s have a look.&lt;/p&gt;
+&lt;p&gt;Do we need to clean the dataset before we can explore it a little more? Let&amp;#39;s have a&amp;nbsp;look.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1920,7 +1924,7 @@ In&amp;nbsp;[17]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;To access a specific subset of columns of a dataframe, we can use list indexing.&lt;/p&gt;
+&lt;p&gt;To access a specific subset of columns of a dataframe, we can use list&amp;nbsp;indexing.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1997,7 +2001,7 @@ In&amp;nbsp;[18]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Notice that this returns a new object of type DataFrame.&lt;/p&gt;
+&lt;p&gt;Notice that this returns a new object of type&amp;nbsp;DataFrame.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2006,7 +2010,7 @@ In&amp;nbsp;[18]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;To access the series of entries of a single column, we could do the following.&lt;/p&gt;
+&lt;p&gt;To access the series of entries of a single column, we could do the&amp;nbsp;following.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2077,7 +2081,7 @@ Name: palmitic, Length: 572, dtype: int64
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Notice the difference in the syntax. In the first example where we used list indexing we got a new DataFrame. In the second example we got a series corresponding to the column. &lt;/p&gt;
+&lt;p&gt;Notice the difference in the syntax. In the first example where we used list indexing we got a new DataFrame. In the second example we got a series corresponding to the&amp;nbsp;column. &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2119,7 +2123,7 @@ type of df[&amp;apos;palmitic&amp;apos;]:		&amp;lt;class &amp;apos;pandas.core.s
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;To access the series of values of a single column more conveniently, we can do this:&lt;/p&gt;
+&lt;p&gt;To access the series of values of a single column more conveniently, we can do&amp;nbsp;this:&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2238,7 +2242,7 @@ array([&amp;apos;North-Apulia&amp;apos;, &amp;apos;Calabria&amp;apos;, &amp;apos
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Create a new dataframe &lt;code&gt;dfsub&lt;/code&gt; by taking the list of acids and using pandas&amp;#39; &lt;code&gt;apply&lt;/code&gt; function to divide all values by 100.&lt;/p&gt;
+&lt;p&gt;Create a new dataframe &lt;code&gt;dfsub&lt;/code&gt; by taking the list of acids and using pandas&amp;#39; &lt;code&gt;apply&lt;/code&gt; function to divide all values by&amp;nbsp;100.&lt;/p&gt;
 &lt;p&gt;If you&amp;#39;re not familiar with pandas&amp;#39; &lt;code&gt;apply&lt;/code&gt; function, a Google search for &amp;#39;python pandas dataframe apply&amp;#39; points you to the &lt;a href="http://pandas.pydata.org/pandas-docs/dev/generated/pandas.DataFrame.apply.html"&gt;documentation&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2357,7 +2361,7 @@ In&amp;nbsp;[23]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Notice that we can replace part of the dataframe by this new frame. Since we need the percentages, let&amp;#39;s do this. The &lt;code&gt;Oleic&lt;/code&gt; percentages should be in the 70s and 80s if you did this right.&lt;/p&gt;
+&lt;p&gt;Notice that we can replace part of the dataframe by this new frame. Since we need the percentages, let&amp;#39;s do this. The &lt;code&gt;Oleic&lt;/code&gt; percentages should be in the 70s and 80s if you did this&amp;nbsp;right.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2950,7 +2954,7 @@ dtype: float64)
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="3-quick-intro-to-numpy-and-matplotlib"&gt;3. Quick Intro to Numpy and Matplotlib&lt;/h3&gt;
+&lt;h3 id="3-quick-intro-to-numpy-and-matplotlib"&gt;3. Quick Intro to Numpy and&amp;nbsp;Matplotlib&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2968,7 +2972,7 @@ dtype: float64)
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h4 id="lets-start-with-numpy"&gt;Lets start with numpy&lt;/h4&gt;
+&lt;h4 id="lets-start-with-numpy"&gt;Lets start with&amp;nbsp;numpy&lt;/h4&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -3719,7 +3723,7 @@ array([ 0.05230491,  0.91185191,  0.20743992])
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h4 id="moving-on-to-matplotlib"&gt;Moving on to matplotlib&lt;/h4&gt;
+&lt;h4 id="moving-on-to-matplotlib"&gt;Moving on to&amp;nbsp;matplotlib&lt;/h4&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -4833,7 +4837,7 @@ rkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;There are many many more kinds of plots.&lt;/p&gt;
+&lt;p&gt;There are many many more kinds of&amp;nbsp;plots.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -4842,7 +4846,7 @@ rkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;A more object oriented approach sees us using the &lt;code&gt;subplots&lt;/code&gt; function to set both figure and axis.&lt;/p&gt;
+&lt;p&gt;A more object oriented approach sees us using the &lt;code&gt;subplots&lt;/code&gt; function to set both figure and&amp;nbsp;axis.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -6735,7 +6739,7 @@ gg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Lets use the above method to make scatterplots of the acids in the list &lt;code&gt;yacids&lt;/code&gt; against the acids in the list &lt;code&gt;xacids&lt;/code&gt;. As the names suggest, plot the acids in &lt;code&gt;yacids&lt;/code&gt; along the y axis and the acids in &lt;code&gt;xacids&lt;/code&gt; along the x axis. Label the axes with the respective acid name. Set it up as a grid with 3 rows and 2 columns.&lt;/p&gt;
+&lt;p&gt;Lets use the above method to make scatterplots of the acids in the list &lt;code&gt;yacids&lt;/code&gt; against the acids in the list &lt;code&gt;xacids&lt;/code&gt;. As the names suggest, plot the acids in &lt;code&gt;yacids&lt;/code&gt; along the y axis and the acids in &lt;code&gt;xacids&lt;/code&gt; along the x axis. Label the axes with the respective acid name. Set it up as a grid with 3 rows and 2&amp;nbsp;columns.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -10031,12 +10035,12 @@ RERk4z+w7sCywuhUdgAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="4-numpy-and-some-stats"&gt;4. Numpy, and some stats&lt;/h3&gt;
-&lt;p&gt;(From Shalizi). In the real world we only always deal with samples from populations. We assume that whatever it is that gave us our data is well-modeled by some random process. In effect, each time we make a measurement, we ask the process to spit out numbers according to some distribution; we sample the distribution. If we think of sampling as closing our eyes and picking a data point out of a box, we call the set of all data-points in the box the population. (That last isn’t as silly as it sounds; think of opinion polls.) In either case, we assume that the true distribution is the unknown one which lies behind our data. If we want to learn about that distribution from the data, then we need to know something about the kind of data it is likely to give us. That is to say, we need to know the sampling distribution, the distribution of data values given that the true distribution takes a certain functional form, with certain parameter values, and we sample from it in a specified way.&lt;/p&gt;
-&lt;p&gt;In the next two sections, $X_1, X_2 . . .X_n . . .$ are independent, identically-distributed
-(IID) random variables. X has the finite mean μ. The average of the first n of
-them is&lt;/p&gt;
-&lt;p&gt;$$ S_n \equiv \frac{1}{n} \sum_{i=1}^{n} X_i $$&lt;/p&gt;
+&lt;h3 id="4-numpy-and-some-stats"&gt;4. Numpy, and some&amp;nbsp;stats&lt;/h3&gt;
+&lt;p&gt;(From Shalizi). In the real world we only always deal with samples from populations. We assume that whatever it is that gave us our data is well-modeled by some random process. In effect, each time we make a measurement, we ask the process to spit out numbers according to some distribution; we sample the distribution. If we think of sampling as closing our eyes and picking a data point out of a box, we call the set of all data-points in the box the population. (That last isn’t as silly as it sounds; think of opinion polls.) In either case, we assume that the true distribution is the unknown one which lies behind our data. If we want to learn about that distribution from the data, then we need to know something about the kind of data it is likely to give us. That is to say, we need to know the sampling distribution, the distribution of data values given that the true distribution takes a certain functional form, with certain parameter values, and we sample from it in a specified&amp;nbsp;way.&lt;/p&gt;
+&lt;p&gt;In the next two sections, $X_1, X_2 &amp;#8230;X_n &amp;#8230;$ are independent, identically-distributed
+(&lt;span class="caps"&gt;IID&lt;/span&gt;) random variables. X has the finite mean μ. The average of the first n of
+them&amp;nbsp;is&lt;/p&gt;
+&lt;p&gt;$$ S_n \equiv \frac{1}{n} \sum_{i=1}^{n} X_i&amp;nbsp;$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -10045,33 +10049,33 @@ them is&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h4 id="the-law-of-large-numbers"&gt;The Law of Large Numbers&lt;/h4&gt;
+&lt;h4 id="the-law-of-large-numbers"&gt;The Law of Large&amp;nbsp;Numbers&lt;/h4&gt;
 &lt;p&gt;(From Shalizi)
-The means of IID sequences converge to the mean of the variable (if E|X| &amp;lt; $\infty$):&lt;/p&gt;
-&lt;p&gt;$$S_n \rightarrow \mu$$ &lt;/p&gt;
+The means of &lt;span class="caps"&gt;IID&lt;/span&gt; sequences converge to the mean of the variable (if E|X| &amp;lt;&amp;nbsp;$\infty$):&lt;/p&gt;
+&lt;p&gt;$$S_n \rightarrow&amp;nbsp;\mu$$ &lt;/p&gt;
 &lt;p&gt;as &lt;/p&gt;
-&lt;p&gt;$$n \rightarrow \infty$$&lt;/p&gt;
-&lt;p&gt;That is, the sample mean approaches the population mean.&lt;/p&gt;
-&lt;p&gt;The obvious application of the law of large numbers is to take our favorite event A from any probability distribution we like, with random variable Y , and then apply an indicator function I(A) to Y , a function which gives 1 when its input is in in A and 0 otherwise. Now we have a Bernoulli random variable with parameter p = P(A). So if we take a long sequence of random trials, then with probability one the frequency of successes will converge to the true probability .&lt;/p&gt;
+&lt;p&gt;$$n \rightarrow&amp;nbsp;\infty$$&lt;/p&gt;
+&lt;p&gt;That is, the sample mean approaches the population&amp;nbsp;mean.&lt;/p&gt;
+&lt;p&gt;The obvious application of the law of large numbers is to take our favorite event A from any probability distribution we like, with random variable Y , and then apply an indicator function I(A) to Y , a function which gives 1 when its input is in in A and 0 otherwise. Now we have a Bernoulli random variable with parameter p = P(A). So if we take a long sequence of random trials, then with probability one the frequency of successes will converge to the true probability&amp;nbsp;.&lt;/p&gt;
 &lt;p&gt;If you simulate many samples of a population, then the laws of large numbers
 tell us the the empirical frequencies of your simulations will approach the actual
 sampling distribution. This is called “Monte Carlo simulation”, or even “the
 Monte Carlo method”. (Several other things are also called Monte Carlo, but
 they’re actually related.) By the same procedure, you can get the sampling
-distribution for an arbitrary statistic of your data.&lt;/p&gt;
-&lt;h4 id="central-limit-theorem"&gt;Central Limit Theorem&lt;/h4&gt;
+distribution for an arbitrary statistic of your&amp;nbsp;data.&lt;/p&gt;
+&lt;h4 id="central-limit-theorem"&gt;Central Limit&amp;nbsp;Theorem&lt;/h4&gt;
 &lt;p&gt;(Again, Shalizi).
-Assume that $X$ has a finite population variance $\sigma^2$. Then as $n \rightarrow \infty$, the $S_n$ converge to a Gaussian random variable with mean $\mu$ and variance $\sigma^2$.&lt;/p&gt;
-&lt;p&gt;More prosaicly: the CLT tells us that, if only we can arrange to be dealing
-with IID sequences, in the long run we know what the distribution must be.
+Assume that $X$ has a finite population variance $\sigma^2$. Then as $n \rightarrow \infty$, the $S_n$ converge to a Gaussian random variable with mean $\mu$ and variance&amp;nbsp;$\sigma^2$.&lt;/p&gt;
+&lt;p&gt;More prosaicly: the &lt;span class="caps"&gt;CLT&lt;/span&gt; tells us that, if only we can arrange to be dealing
+with &lt;span class="caps"&gt;IID&lt;/span&gt; sequences, in the long run we know what the distribution must be.
 Even better, it’s always the same distribution; still better, it’s one which is
 remarkably easy to deal with, and for which we have a huge amount of theory.
-Manipulate your problem so that the CLT applies, and, at least asymptotically,
-you’ve got it made.&lt;/p&gt;
-&lt;p&gt;It’s generally true that, whatever measure of variability we pick, its value in a sample will tend to be smaller than its population value. (We have already mentioned that this is true of the variance.) It’s not hard to see why this should be so; consider, as an extreme case, the limit where our sample consists of a single piece of data, and so there is no variation in the sample. More generally, picking out a subset from the population, which is what sampling does, is unlikely to give an exactly representative sample, and naturally the higher probability events will be the ones which tend to show up in the sample.&lt;/p&gt;
-&lt;h4 id="sampling-and-de-moivre-s-formula-"&gt;Sampling and De-Moivre&amp;#39;s formula:&lt;/h4&gt;
-&lt;p&gt;The standard deviation of the sampling distribution of the mean is given as:&lt;/p&gt;
-&lt;p&gt;$$\sigma_{sample} = \frac{\sigma}{\sqrt{N_{sample}}}$$&lt;/p&gt;
+Manipulate your problem so that the &lt;span class="caps"&gt;CLT&lt;/span&gt; applies, and, at least asymptotically,
+you’ve got it&amp;nbsp;made.&lt;/p&gt;
+&lt;p&gt;It’s generally true that, whatever measure of variability we pick, its value in a sample will tend to be smaller than its population value. (We have already mentioned that this is true of the variance.) It’s not hard to see why this should be so; consider, as an extreme case, the limit where our sample consists of a single piece of data, and so there is no variation in the sample. More generally, picking out a subset from the population, which is what sampling does, is unlikely to give an exactly representative sample, and naturally the higher probability events will be the ones which tend to show up in the&amp;nbsp;sample.&lt;/p&gt;
+&lt;h4 id="sampling-and-de-moivre-s-formula-"&gt;Sampling and De-Moivre&amp;#39;s&amp;nbsp;formula:&lt;/h4&gt;
+&lt;p&gt;The standard deviation of the sampling distribution of the mean is given&amp;nbsp;as:&lt;/p&gt;
+&lt;p&gt;$$\sigma_{sample} =&amp;nbsp;\frac{\sigma}{\sqrt{N_{sample}}}$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -10128,7 +10132,7 @@ array([ 0.8,  0.6,  0.2,  0.6,  0.4,  0.5,  0.8,  0.4,  0.7,  0.5,  0.6,
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;as a function of the size of the samples&lt;/p&gt;
+&lt;p&gt;as a function of the size of the&amp;nbsp;samples&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -10890,7 +10894,7 @@ BQ4AgIUocAAALPRv4zVHSL5uNJ8AAAAASUVORK5CYII=
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;blockquote&gt;
-&lt;p&gt;As a function of the number of samples&lt;/p&gt;
+&lt;p&gt;As a function of the number of&amp;nbsp;samples&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -11830,7 +11834,7 @@ Bf0PCA1urJbui44AAAAASUVORK5CYII=
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="5-pandas-data-munging-indexing-plotting"&gt;5. Pandas Data Munging, indexing, plotting&lt;/h3&gt;
+&lt;h3 id="5-pandas-data-munging-indexing-plotting"&gt;5. Pandas Data Munging, indexing,&amp;nbsp;plotting&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -12155,7 +12159,7 @@ In&amp;nbsp;[62]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;The function &lt;code&gt;groupby&lt;/code&gt; gives you a dictionary-like object, with the keys being the values of the factor, and the values being the corresponding subsets of the dataframe.&lt;/p&gt;
+&lt;p&gt;The function &lt;code&gt;groupby&lt;/code&gt; gives you a dictionary-like object, with the keys being the values of the factor, and the values being the corresponding subsets of the&amp;nbsp;dataframe.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -12650,7 +12654,7 @@ In&amp;nbsp;[64]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;One might let pandas take care of concatenating the series obtained by running &lt;code&gt;std&lt;/code&gt; on each dataframe back into a dataframe for us. Notice that the output dataframe is automatically indexed by region for us!&lt;/p&gt;
+&lt;p&gt;One might let pandas take care of concatenating the series obtained by running &lt;code&gt;std&lt;/code&gt; on each dataframe back into a dataframe for us. Notice that the output dataframe is automatically indexed by region for&amp;nbsp;us!&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -12758,7 +12762,7 @@ In&amp;nbsp;[65]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Or one can use &lt;code&gt;aggregate&lt;/code&gt; to pass an arbitrary function of to the sub-dataframe. The function is applied columnwise.&lt;/p&gt;
+&lt;p&gt;Or one can use &lt;code&gt;aggregate&lt;/code&gt; to pass an arbitrary function of to the sub-dataframe. The function is applied&amp;nbsp;columnwise.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -12866,7 +12870,7 @@ In&amp;nbsp;[66]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Or one can use &lt;code&gt;apply&lt;/code&gt; to pass an arbitrary function to the sub-dataframe. This one takes the dataframe as argument.&lt;/p&gt;
+&lt;p&gt;Or one can use &lt;code&gt;apply&lt;/code&gt; to pass an arbitrary function to the sub-dataframe. This one takes the dataframe as&amp;nbsp;argument.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -13089,7 +13093,7 @@ In&amp;nbsp;[68]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Pandas can do general merges. When we do that along an index, it&amp;#39;s called a &lt;code&gt;join&lt;/code&gt; (&lt;a href="http://pandas.pydata.org/pandas-docs/dev/generated/pandas.DataFrame.join.html"&gt;documentation&lt;/a&gt;). Here we make two sub-dataframes and join them on the common region index.&lt;/p&gt;
+&lt;p&gt;Pandas can do general merges. When we do that along an index, it&amp;#39;s called a &lt;code&gt;join&lt;/code&gt; (&lt;a href="http://pandas.pydata.org/pandas-docs/dev/generated/pandas.DataFrame.join.html"&gt;documentation&lt;/a&gt;). Here we make two sub-dataframes and join them on the common region&amp;nbsp;index.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -13202,7 +13206,7 @@ In&amp;nbsp;[70]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Let&amp;#39;s get a dataframe with just the acids.&lt;/p&gt;
+&lt;p&gt;Let&amp;#39;s get a dataframe with just the&amp;nbsp;acids.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -13306,7 +13310,7 @@ In&amp;nbsp;[71]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Let&amp;#39;s make a bar plot of the relative mean percentages of the acids. In pandas this is as simple as:&lt;/p&gt;
+&lt;p&gt;Let&amp;#39;s make a bar plot of the relative mean percentages of the acids. In pandas this is as simple&amp;nbsp;as:&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -13719,7 +13723,7 @@ dMgpHMqDhbgAAAAASUVORK5CYII=
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;You can make a mask!&lt;/p&gt;
+&lt;p&gt;You can make a&amp;nbsp;mask!&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -13794,7 +13798,7 @@ Name: eicosenoic, Length: 572, dtype: bool
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;The first gives a count, the second is a shortcut to get a probability!&lt;/p&gt;
+&lt;p&gt;The first gives a count, the second is a shortcut to get a&amp;nbsp;probability!&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -15904,7 +15908,7 @@ AhkAAIBhBDIAAADDvgBvTNkFNqftLwAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</summary><category term="labs"></category></entry><entry><title>Lecture 1</title><link href="http://lxprior.github.io/perstmpl/blog/lecture-1.html" rel="alternate"></link><updated>2014-10-31T08:52:59+01:00</updated><author><name>Pavlos Protopapas</name></author><id>tag:lxprior.github.io,2014-10-31:perstmpl/blog/lecture-1.html</id><summary type="html">&lt;p&gt;A video of this lecture is available &lt;a href="http://cm.dce.harvard.edu/2014/02/24104/L02/screen_H264LargeTalkingHead-16x9.shtml"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;</summary><category term="labs"></category></entry><entry><title>Lecture 1</title><link href="http://lxprior.github.io/perstmpl/blog/lecture-1.html" rel="alternate"></link><updated>2014-10-31T12:08:51+01:00</updated><author><name>Pavlos Protopapas</name></author><id>tag:lxprior.github.io,2014-10-31:perstmpl/blog/lecture-1.html</id><summary type="html">&lt;p&gt;A video of this lecture is available &lt;a href="http://cm.dce.harvard.edu/2014/02/24104/L02/screen_H264LargeTalkingHead-16x9.shtml"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can download this lecture &lt;a href="{filename}/../../notebooks/Lecture1.ipynb"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;div class="videobox"&gt;
                 &lt;iframe width="640" height="390"
@@ -15919,17 +15923,17 @@ AhkAAIBhBDIAAADDvgBvTNkFNqftLwAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h1 id="short-review-of-probability-theory-distributions-etc"&gt;Short review of probability theory, distributions etc&lt;/h1&gt;
-&lt;p&gt;Probabilities are numbers that tell us how often things happen (frequentist) or our believe (Bayesian) in a different outcome or notion and this is of course a very disputed topic discussed in many books, papers etc [RD: ADD REFERENCES]. In this course we take a very simple approach and we use whatever is convinient at the time, or whatever is better to demonstrate the methodologies we are learning. &lt;/p&gt;
-&lt;p&gt;There are a few basic rules that form the basis for all probabilistic methodology. In this lecture, we just brieﬂy review these rules. For an in depth introduction into probability theory, you can consult a number of books and online material [RD: ADD REFERENCES].&lt;/p&gt;
-&lt;p&gt;If $X$ and $Y$ are two events and $p(X)$ is the probability of the event $X$ to happen. X ̄ is the complement of X, the event which is all the occurrences which are not in X. X+Y is the union of X and Y; X,Y is the intersection of X and Y. (Both X+Y and X,Y are also events.)&lt;/p&gt;
-&lt;h3 id="the-very-fundamental-rules-of-probability-my-grandma-knows-these-"&gt;The very fundamental rules of probability (my grandma knows these):&lt;/h3&gt;
+&lt;h1 id="short-review-of-probability-theory-distributions-etc"&gt;Short review of probability theory, distributions&amp;nbsp;etc&lt;/h1&gt;
+&lt;p&gt;Probabilities are numbers that tell us how often things happen (frequentist) or our believe (Bayesian) in a different outcome or notion and this is of course a very disputed topic discussed in many books, papers etc [&lt;span class="caps"&gt;RD&lt;/span&gt;: &lt;span class="caps"&gt;ADD&lt;/span&gt; &lt;span class="caps"&gt;REFERENCES&lt;/span&gt;]. In this course we take a very simple approach and we use whatever is convinient at the time, or whatever is better to demonstrate the methodologies we are&amp;nbsp;learning. &lt;/p&gt;
+&lt;p&gt;There are a few basic rules that form the basis for all probabilistic methodology. In this lecture, we just brieﬂy review these rules. For an in depth introduction into probability theory, you can consult a number of books and online material [&lt;span class="caps"&gt;RD&lt;/span&gt;: &lt;span class="caps"&gt;ADD&lt;/span&gt; &lt;span class="caps"&gt;REFERENCES&lt;/span&gt;].&lt;/p&gt;
+&lt;p&gt;If $X$ and $Y$ are two events and $p(X)$ is the probability of the event $X$ to happen. X ̄ is the complement of X, the event which is all the occurrences which are not in X. X+Y is the union of X and Y; X,Y is the intersection of X and Y. (Both X+Y and X,Y are also&amp;nbsp;events.)&lt;/p&gt;
+&lt;h3 id="the-very-fundamental-rules-of-probability-my-grandma-knows-these-"&gt;The very fundamental rules of probability (my grandma knows&amp;nbsp;these):&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;p(X) = 1 X has to happen&lt;/li&gt;
-&lt;li&gt;p(X) = 0 X will certainly not happen&lt;/li&gt;
-&lt;li&gt;0 ≤ p(AX) ≤ 1 X has probability range from low to high&lt;/li&gt;
-&lt;li&gt;p(X)+p(X ̄)=1  X must either happen or not-happen&lt;/li&gt;
-&lt;li&gt;p(X+Y)=p(X)+p(Y)−p(X,Y) X can happen and Y can happen but we must subtract the cases that are happening together so we do not overcount.&lt;/li&gt;
+&lt;li&gt;p(X) = 1 X has to&amp;nbsp;happen&lt;/li&gt;
+&lt;li&gt;p(X) = 0 X will certainly not&amp;nbsp;happen&lt;/li&gt;
+&lt;li&gt;0 ≤ p(&lt;span class="caps"&gt;AX&lt;/span&gt;) ≤ 1 X has probability range from low to&amp;nbsp;high&lt;/li&gt;
+&lt;li&gt;p(X)+p(X ̄)=1  X must either happen or&amp;nbsp;not-happen&lt;/li&gt;
+&lt;li&gt;p(X+Y)=p(X)+p(Y)−p(X,Y) X can happen and Y can happen but we must subtract the cases that are happening together so we do not&amp;nbsp;overcount.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -15939,12 +15943,12 @@ AhkAAIBhBDIAAADDvgBvTNkFNqftLwAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;For two random variates $x,y$ the $p(x,y)$ is called the joint distribution, and $p(x|y)$ the conditional distribution. &lt;/p&gt;
-&lt;h3 id="sum-rule-marginal-distribution-"&gt;Sum rule (marginal distribution)&lt;/h3&gt;
-&lt;p&gt;We can write the marginal probability of x as a sum over the joint distribution of x and y where we sum over all possibilities of y,&lt;/p&gt;
-&lt;p&gt;$$p(x) = \sum_y p(x,y) $$&lt;/p&gt;
-&lt;p&gt;for continuous random variables this becomes:&lt;/p&gt;
-&lt;p&gt;$$ p(x) = \int_y p(x,y) \, dy $$&lt;/p&gt;
+&lt;p&gt;For two random variates $x,y$ the $p(x,y)$ is called the joint distribution, and $p(x|y)$ the conditional&amp;nbsp;distribution. &lt;/p&gt;
+&lt;h3 id="sum-rule-marginal-distribution-"&gt;Sum rule (marginal&amp;nbsp;distribution)&lt;/h3&gt;
+&lt;p&gt;We can write the marginal probability of x as a sum over the joint distribution of x and y where we sum over all possibilities of&amp;nbsp;y,&lt;/p&gt;
+&lt;p&gt;$$p(x) = \sum_y p(x,y)&amp;nbsp;$$&lt;/p&gt;
+&lt;p&gt;for continuous random variables this&amp;nbsp;becomes:&lt;/p&gt;
+&lt;p&gt;$$ p(x) = \int_y p(x,y) \, dy&amp;nbsp;$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -15953,9 +15957,9 @@ AhkAAIBhBDIAAADDvgBvTNkFNqftLwAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="product-rule"&gt;Product rule&lt;/h3&gt;
-&lt;p&gt;We can rewrite a joint distribution as a product of a conditional and marginal probability,&lt;/p&gt;
-&lt;p&gt;$$ p(x,y) = p(x|y) p(y) $$&lt;/p&gt;
+&lt;h3 id="product-rule"&gt;Product&amp;nbsp;rule&lt;/h3&gt;
+&lt;p&gt;We can rewrite a joint distribution as a product of a conditional and marginal&amp;nbsp;probability,&lt;/p&gt;
+&lt;p&gt;$$ p(x,y) = p(x|y) p(y)&amp;nbsp;$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -15964,11 +15968,11 @@ AhkAAIBhBDIAAADDvgBvTNkFNqftLwAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="chain-rule"&gt;Chain rule&lt;/h3&gt;
+&lt;h3 id="chain-rule"&gt;Chain&amp;nbsp;rule&lt;/h3&gt;
 &lt;p&gt;The product rule is applied repeatedly to give expressions for the joint
 probability involving more than two variables. For example, the joint distribution over three
-variables can be factorized into a product of conditional probabilities:&lt;/p&gt;
-&lt;p&gt;$$ p(x,y,z) = p(x|y,z) \, p(y,z) = p(x |y,z) \, p(y|z) p(z) $$&lt;/p&gt;
+variables can be factorized into a product of conditional&amp;nbsp;probabilities:&lt;/p&gt;
+&lt;p&gt;$$ p(x,y,z) = p(x|y,z) \, p(y,z) = p(x |y,z) \, p(y|z) p(z)&amp;nbsp;$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -15977,12 +15981,12 @@ variables can be factorized into a product of conditional probabilities:&lt;/p&g
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="bayes-rule"&gt;Bayes rule&lt;/h3&gt;
-&lt;p&gt;Given the product rule one can derive the Bayes rule, which plays a central role in a lot of the things we will be talking:&lt;/p&gt;
-&lt;p&gt;$$ p(y|x) = \frac{p(x|y) \, p(y) }{p(x)} = \frac{p(x|y) \, p(y) }{\sum_y' p(x,y')} = \frac{p(x|y) \, p(y) }{\sum_y' p(x|y')p(y')}$$&lt;/p&gt;
+&lt;h3 id="bayes-rule"&gt;Bayes&amp;nbsp;rule&lt;/h3&gt;
+&lt;p&gt;Given the product rule one can derive the Bayes rule, which plays a central role in a lot of the things we will be&amp;nbsp;talking:&lt;/p&gt;
+&lt;p&gt;$$ p(y|x) = \frac{p(x|y) \, p(y) }{p(x)} = \frac{p(x|y) \, p(y) }{\sum_y&amp;#8217; p(x,y&amp;#8217;)} = \frac{p(x|y) \, p(y) }{\sum_y&amp;#8217;&amp;nbsp;p(x|y&amp;#8217;)p(y&amp;#8217;)}$$&lt;/p&gt;
 &lt;p&gt;Importantly, we rarely need to explicitly evaluate the denominator $p(x)$. Instead, we can just evaluate the conditional probability up to a
-constant of proportionality:&lt;/p&gt;
-&lt;p&gt;$$ p(y|x) \propto p(x|y) \, p(y) $$&lt;/p&gt;
+constant of&amp;nbsp;proportionality:&lt;/p&gt;
+&lt;p&gt;$$ p(y|x) \propto p(x|y) \, p(y)&amp;nbsp;$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -15992,8 +15996,8 @@ constant of proportionality:&lt;/p&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;h3 id="independence"&gt;Independence&lt;/h3&gt;
-&lt;p&gt;Two variables are said to be independent if their joint distribution factorizes into a product of two marginal probabilities:&lt;/p&gt;
-&lt;p&gt;$$ p(x,y) = p(x) \, p(y) $$ &lt;/p&gt;
+&lt;p&gt;Two variables are said to be independent if their joint distribution factorizes into a product of two marginal&amp;nbsp;probabilities:&lt;/p&gt;
+&lt;p&gt;$$ p(x,y) = p(x) \, p(y)&amp;nbsp;$$ &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -16002,8 +16006,8 @@ constant of proportionality:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Note that if two variables are uncorrelated, that does not mean they are statistically independent. There are many ways to measure statistical association between variables and correlation is just one of them. However, if two variables are independent, this will ensure there is no correlation between them. Another consequence of independence is that if $x$ and $y$ are independent, the conditional probability of $x$ given $y$ is just the probability of $x$:&lt;/p&gt;
-&lt;p&gt;$$ p(x|y) = p(x) $$&lt;/p&gt;
+&lt;p&gt;Note that if two variables are uncorrelated, that does not mean they are statistically independent. There are many ways to measure statistical association between variables and correlation is just one of them. However, if two variables are independent, this will ensure there is no correlation between them. Another consequence of independence is that if $x$ and $y$ are independent, the conditional probability of $x$ given $y$ is just the probability of&amp;nbsp;$x$:&lt;/p&gt;
+&lt;p&gt;$$ p(x|y) = p(x)&amp;nbsp;$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -16012,11 +16016,11 @@ constant of proportionality:&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;In other words, by conditioning on a particular $y$, we have learned nothing about $x$ because of independence. Two variables $x$ and $y$ and said to be conditionally independent of $z$ if the following holds:&lt;/p&gt;
-&lt;p&gt;$$ p(x,y|z) = p(x|z) p(y|z) $$&lt;/p&gt;
-&lt;p&gt;Therefore, if we learn about z, x and y become independent. Another way to write that $x$ and $y$ are conditionally independent of $z$ is &lt;/p&gt;
-&lt;p&gt;$$ p(x| z, y) = p(x|z) $$&lt;/p&gt;
-&lt;p&gt;In other words, if we condition on $z$, and now also learn about $y$, this is not going to change the probability of $x$. It is important to realize that conditional independence between $x$ and $y$ does not imply independence between $x$ and $y$. &lt;/p&gt;
+&lt;p&gt;In other words, by conditioning on a particular $y$, we have learned nothing about $x$ because of independence. Two variables $x$ and $y$ and said to be conditionally independent of $z$ if the following&amp;nbsp;holds:&lt;/p&gt;
+&lt;p&gt;$$ p(x,y|z) = p(x|z) p(y|z)&amp;nbsp;$$&lt;/p&gt;
+&lt;p&gt;Therefore, if we learn about z, x and y become independent. Another way to write that $x$ and $y$ are conditionally independent of $z$&amp;nbsp;is &lt;/p&gt;
+&lt;p&gt;$$ p(x| z, y) = p(x|z)&amp;nbsp;$$&lt;/p&gt;
+&lt;p&gt;In other words, if we condition on $z$, and now also learn about $y$, this is not going to change the probability of $x$. It is important to realize that conditional independence between $x$ and $y$ does not imply independence between $x$ and&amp;nbsp;$y$. &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -16071,7 +16075,7 @@ In&amp;nbsp;[32]:
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;h2 id="distributions"&gt;Distributions&lt;/h2&gt;
 &lt;p&gt;Probability distribution (aka probability measure) is a function that takes an event and gives its probability. Sometimes this is not well defined in the whole probability space but we will not worry about this for now.
-There are two classes of statistical distributions, discete and continous.&lt;/p&gt;
+There are two classes of statistical distributions, discete and&amp;nbsp;continous.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -16080,7 +16084,7 @@ There are two classes of statistical distributions, discete and continous.&lt;/p
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="discrete-distributions"&gt;Discrete Distributions&lt;/h3&gt;
+&lt;h3 id="discrete-distributions"&gt;Discrete&amp;nbsp;Distributions&lt;/h3&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -16089,14 +16093,14 @@ There are two classes of statistical distributions, discete and continous.&lt;/p
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="bernoulli-distribution"&gt;Bernoulli distribution&lt;/h3&gt;
-&lt;p&gt;The probability for a yes/no outcome of an expiriment, the Bernoulli probability, is given by the Bernoulli distribution. Bernoulli distribution is the mother of all distributions. Every exeriment, can be always expressed it in terms of success/failure. If you do not know which distributon to use, you can think of any problem as a yes/no problem and starting from there you work your to all other distributions.  &lt;/p&gt;
-&lt;p&gt;For a given probability $p$ of a success/failure (or yes/no), the we expect the value k=1, $p n$ times out of $n$, meanwhile it takes k=0 in all the other cases. For example if $p=0.6$ and draw 10 numbers we expect 6 to be 1 and 4 to be zero. Therefore the probability of getting $k=1$ is $p$ and $k=0$ is $1-p$. &lt;/p&gt;
-&lt;p&gt;$$ f(k;p) = \begin{cases} p &amp;amp; \text{if }k=1, \\[6pt]
-1-p &amp;amp; \text {if }k=0.\end{cases} $$&lt;/p&gt;
-&lt;p&gt;This can be expressed also as:&lt;/p&gt;
-&lt;p&gt;$$ f(k;p) = p^k (1-p)^{1-k}\!\quad \text{for }k\in\{0,1\}.$$&lt;/p&gt;
-&lt;p&gt;The mean of random variables drawn from such distribution is $E[X] = p$ and the variance is $Var[X]=p(1-p)$&lt;/p&gt;
+&lt;h3 id="bernoulli-distribution"&gt;Bernoulli&amp;nbsp;distribution&lt;/h3&gt;
+&lt;p&gt;The probability for a yes/no outcome of an expiriment, the Bernoulli probability, is given by the Bernoulli distribution. Bernoulli distribution is the mother of all distributions. Every exeriment, can be always expressed it in terms of success/failure. If you do not know which distributon to use, you can think of any problem as a yes/no problem and starting from there you work your to all other&amp;nbsp;distributions.  &lt;/p&gt;
+&lt;p&gt;For a given probability $p$ of a success/failure (or yes/no), the we expect the value k=1, $p n$ times out of $n$, meanwhile it takes k=0 in all the other cases. For example if $p=0.6$ and draw 10 numbers we expect 6 to be 1 and 4 to be zero. Therefore the probability of getting $k=1$ is $p$ and $k=0$ is&amp;nbsp;$1-p$. &lt;/p&gt;
+&lt;p&gt;$$ f(k;p) = \begin{cases} p &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; \text{if }k=1, &amp;#92;[6pt]
+1-p &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; \text {if }k=0.\end{cases}&amp;nbsp;$$&lt;/p&gt;
+&lt;p&gt;This can be expressed also&amp;nbsp;as:&lt;/p&gt;
+&lt;p&gt;$$ f(k;p) = p^k (1-p)^{1-k}\!\quad \text{for&amp;nbsp;}k\in\{0,1\}.$$&lt;/p&gt;
+&lt;p&gt;The mean of random variables drawn from such distribution is $E[X] = p$ and the variance is&amp;nbsp;$Var[X]=p(1-p)$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -16387,9 +16391,9 @@ FIhmAAAoEM0AAFAgmgEAoEA0AwBAgWgGAIAC0QwAAAX/H4/SJXi+pbzQAAAAAElFTkSuQmCC
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h4 id="example-bernoulli-distribution"&gt;Example Bernoulli Distribution&lt;/h4&gt;
-&lt;p&gt;Suppose in AM207 last year the class got C or better with probability 0.75. Let the random 
-variable X be the probability that someone gets a grade higher the C. &lt;/p&gt;
+&lt;h4 id="example-bernoulli-distribution"&gt;Example Bernoulli&amp;nbsp;Distribution&lt;/h4&gt;
+&lt;p&gt;Suppose in &lt;span class="caps"&gt;AM207&lt;/span&gt; last year the class got C or better with probability 0.75. Let the random 
+variable X be the probability that someone gets a grade higher the&amp;nbsp;C. &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -16529,8 +16533,8 @@ AGAoAg4Ahvp/yFsFDsOdKCoAAAAASUVORK5CYII=
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h2 id="binomial-distribution"&gt;Binomial distribution&lt;/h2&gt;
-&lt;p&gt;Bionomial is the distribution of the number of successes in a sequence of $n$ independent yes/no experiments, each of which yields success with probability $p$. The Binomial distribution is an extension of the Bernoulli when $n&amp;gt;1$ or the Bernoulli is the a special case of the Binomial when $n=1$.   &lt;/p&gt;
+&lt;h2 id="binomial-distribution"&gt;Binomial&amp;nbsp;distribution&lt;/h2&gt;
+&lt;p&gt;Bionomial is the distribution of the number of successes in a sequence of $n$ independent yes/no experiments, each of which yields success with probability $p$. The Binomial distribution is an extension of the Bernoulli when $n&amp;gt;1$ or the Bernoulli is the a special case of the Binomial when&amp;nbsp;$n=1$.   &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -16539,10 +16543,10 @@ AGAoAg4Ahvp/yFsFDsOdKCoAAAAASUVORK5CYII=
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;$$P(X = k; n, p) = {n\choose k}p^k(1-p)^{n-k} $$&lt;/p&gt;
+&lt;p&gt;$$P(X = k; n, p) = {n\choose k}p^k(1-p)^{n-k}&amp;nbsp;$$&lt;/p&gt;
 &lt;p&gt;where&lt;/p&gt;
-&lt;p&gt;$${n\choose k}=\frac{n!}{k!(n-k)!}$$&lt;/p&gt;
-&lt;p&gt;The expected value $E[X]=np$ and the variance is $Var[X]=np(1-p)$&lt;/p&gt;
+&lt;p&gt;$${n\choose&amp;nbsp;k}=\frac{n!}{k!(n-k)!}$$&lt;/p&gt;
+&lt;p&gt;The expected value $E[X]=np$ and the variance is&amp;nbsp;$Var[X]=np(1-p)$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -17178,8 +17182,8 @@ TkSuQmCC
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h4 id="example-binomial-distribution"&gt;Example Binomial distribution&lt;/h4&gt;
-&lt;p&gt;Probability of 8 people getting a C or higher this year assuming we have 50 students in total. In this case $p=0.75$ and $n=50$. If we assume uncorrelated events, then p(k=8; n=50, p=0.75)&lt;/p&gt;
+&lt;h4 id="example-binomial-distribution"&gt;Example Binomial&amp;nbsp;distribution&lt;/h4&gt;
+&lt;p&gt;Probability of 8 people getting a C or higher this year assuming we have 50 students in total. In this case $p=0.75$ and $n=50$. If we assume uncorrelated events, then p(k=8; n=50,&amp;nbsp;p=0.75)&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -17333,7 +17337,7 @@ oCREpAAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h2 id="poisson-distribution"&gt;Poisson distribution&lt;/h2&gt;
+&lt;h2 id="poisson-distribution"&gt;Poisson&amp;nbsp;distribution&lt;/h2&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -17342,8 +17346,8 @@ oCREpAAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Another discrete distribution, the Poisson distribution expresses the probability of a given number of events occurring in a fixed interval of time and/or space if these events occur with a known average rate and independently of the time since the last event.  Defined for all the integer positive number as,&lt;/p&gt;
-&lt;p&gt;$$ P(X=k)= \frac{\lambda^k e^{-\lambda}}{k!}, $$&lt;/p&gt;
+&lt;p&gt;Another discrete distribution, the Poisson distribution expresses the probability of a given number of events occurring in a fixed interval of time and/or space if these events occur with a known average rate and independently of the time since the last event.  Defined for all the integer positive number&amp;nbsp;as,&lt;/p&gt;
+&lt;p&gt;$$ P(X=k)= \frac{\lambda^k e^{-\lambda}}{k!},&amp;nbsp;$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -18421,8 +18425,8 @@ NU1prXW6gxBCCCGEEOJaJCPbQgghhBBCpIgk20IIIYQQQqSIJNtCCCGEEEKkiCTbQgghhBBCpIgk
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h2 id="continous-variables"&gt;Continous variables&lt;/h2&gt;
-&lt;p&gt;The difficulty with continuous random variables is that you can’t find the probability of the exact event. The problem is  that every value of the random variate has length 0, but if you add enough values together you have something with positive length. The usual way around this difficulty, is to define probabilities for intervals.&lt;/p&gt;
+&lt;h2 id="continous-variables"&gt;Continous&amp;nbsp;variables&lt;/h2&gt;
+&lt;p&gt;The difficulty with continuous random variables is that you can’t find the probability of the exact event. The problem is  that every value of the random variate has length 0, but if you add enough values together you have something with positive length. The usual way around this difficulty, is to define probabilities for&amp;nbsp;intervals.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -18431,10 +18435,10 @@ NU1prXW6gxBCCCGEEOJaJCPbQgghhBBCpIgk20IIIYQQQqSIJNtCCCGEEEKkiCTbQgghhBBCpIgk
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h3 id="normal-distribution"&gt;Normal Distribution&lt;/h3&gt;
+&lt;h3 id="normal-distribution"&gt;Normal&amp;nbsp;Distribution&lt;/h3&gt;
 &lt;p&gt;Probably the most important of all distributions is the normal distribution due to the Central Limit Theorem which
-states that, given certain conditions, the arithmetic mean of a sufficiently large number of iterates of independent random variables, each with a well-defined expected value and well-defined variance, will be approximately normally distributed. A normal distribution is:&lt;/p&gt;
-&lt;p&gt;$$ f(x, \mu, \sigma) = \frac{1}{\sigma\sqrt{2\pi}} e^{ -\frac{(x-\mu)^2}{2\sigma^2} } $$&lt;/p&gt;
+states that, given certain conditions, the arithmetic mean of a sufficiently large number of iterates of independent random variables, each with a well-defined expected value and well-defined variance, will be approximately normally distributed. A normal distribution&amp;nbsp;is:&lt;/p&gt;
+&lt;p&gt;$$ f(x, \mu, \sigma) = \frac{1}{\sigma\sqrt{2\pi}} e^{ -\frac{(x-\mu)^2}{2\sigma^2} }&amp;nbsp;$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -19199,8 +19203,8 @@ iIREwbiIiIiISEj+PwgtBH0SHlkyAAAAAElFTkSuQmCC
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;h3 id="alpha"&gt;Alpha&lt;/h3&gt;
-&lt;p&gt;The Alpha distribution is defined as:&lt;/p&gt;
-&lt;p&gt;$$ p_{\alpha}(x,a)=\frac{1}{x^2 \Phi(a) \sqrt{2 \pi}} exp(−\frac{1}{2} (\frac{a−1}{x})^2), \rm{with} \,\,  x&amp;gt;0, \, a&amp;gt;0 $$&lt;/p&gt;
+&lt;p&gt;The Alpha distribution is defined&amp;nbsp;as:&lt;/p&gt;
+&lt;p&gt;$$ p_{\alpha}(x,a)=\frac{1}{x^2 \Phi(a) \sqrt{2 \pi}} exp(−\frac{1}{2} (\frac{a−1}{x})^2), \rm{with} \,\,  x&amp;gt;0, \, a&amp;gt;0&amp;nbsp;$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -19788,12 +19792,12 @@ RU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h2 id="beta-distribution"&gt;Beta distribution&lt;/h2&gt;
+&lt;h2 id="beta-distribution"&gt;Beta&amp;nbsp;distribution&lt;/h2&gt;
 &lt;p&gt;The Beta distribution is defined for a variabile rangin between 0 and 1.
-The pdf is defined as:&lt;/p&gt;
+The pdf is defined&amp;nbsp;as:&lt;/p&gt;
 &lt;p&gt;$$f(x;\alpha,\beta)  = \frac{1}{B(\alpha, \beta)}\, x^{\alpha-1}(1-x)^{\beta-1} $$
-with $ 0 \le x  \le 1$, $\alpha&amp;gt;0$ and $\beta &amp;gt;0$.&lt;/p&gt;
-&lt;p&gt;where $B(\alpha, \beta)$ is the Beta functions that serves as a normalization.&lt;/p&gt;
+with $ 0 \le x  \le 1$, $\alpha&amp;gt;0$ and $\beta&amp;nbsp;&amp;gt;0$.&lt;/p&gt;
+&lt;p&gt;where $B(\alpha, \beta)$ is the Beta functions that serves as a&amp;nbsp;normalization.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -20494,13 +20498,12 @@ BwRqAAAAwAMCNQAAAOABgRoAAADwgEANAAAAeECgBgAAADz4D85ZUqviiVT5AAAAAElFTkSuQmCC
 &lt;p&gt;Exponential is the probability distribution that describes the time between events in a Poisson process
 The Exponantial probability function is
 $$f(x;\lambda) = \begin{cases}
-\lambda e^{-\lambda x} &amp;amp; x \ge 0, \\
-0 &amp;amp; x &amp;lt; 0.
+\lambda e^{-\lambda x} &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; x \ge 0, &amp;#92;
+0 &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; x &amp;lt; 0.
 \end{cases}$$
 Therefore, the random variable X has an exponential distribution with parameter $\lambda$, we say $X$ is exponential and write
 $ X∼Exp(\lambda)$
-Given a specific $\lambda$, the expected value of an exponential random variable is equal to the inverse of $\lambda$, that is:
-$E[X|\lambda]=\frac{1}{\lambda}$&lt;/p&gt;
+Given a specific $\lambda$, the expected value of an exponential random variable is equal to the inverse of $\lambda$, that is:&amp;nbsp;$E[X|\lambda]=\frac{1}{\lambda}$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -21003,7 +21006,7 @@ IAiCIAiCINoEiWuCIAiCIAiCaBP/HyVeuXVIJE/EAAAAAElFTkSuQmCC
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h2 id="mutlivariate-random-variates"&gt;Mutlivariate random variates&lt;/h2&gt;
+&lt;h2 id="mutlivariate-random-variates"&gt;Mutlivariate random&amp;nbsp;variates&lt;/h2&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -21087,8 +21090,8 @@ In&amp;nbsp;[27]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h2 id="joint-marginal-and-conditional"&gt;Joint, marginal and conditional&lt;/h2&gt;
-&lt;p&gt;The joint distribution is given by the 2D histogram as &lt;/p&gt;
+&lt;h2 id="joint-marginal-and-conditional"&gt;Joint, marginal and&amp;nbsp;conditional&lt;/h2&gt;
+&lt;p&gt;The joint distribution is given by the 2D histogram&amp;nbsp;as &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -21217,7 +21220,7 @@ ADiCwAYARxDYAOAIAhsAHEFgA4AjCGwAcASBDQCOILABwBH/Dyu5KbiErU4SAAAAAElFTkSuQmCC
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Lets look at the actual distribution&lt;/p&gt;
+&lt;p&gt;Lets look at the actual&amp;nbsp;distribution&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -21694,7 +21697,7 @@ V0opG/D/W45eI4UpACMAAAAASUVORK5CYII=
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;How about the marginal? This is as simple as taking the histogram ignoring one of the dimensions. For example marginalizing over Height take the histogram of Weight as:&lt;/p&gt;
+&lt;p&gt;How about the marginal? This is as simple as taking the histogram ignoring one of the dimensions. For example marginalizing over Height take the histogram of Weight&amp;nbsp;as:&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -21863,7 +21866,7 @@ DQZ7jENSnQAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Finally how about conditional? Lets assume we want the probability distribution for Weight given Height= 65? As explained above with continous variables we should use intervals rather than exact values. Say we want the conditional given Height between 63 and 65. &lt;/p&gt;
+&lt;p&gt;Finally how about conditional? Lets assume we want the probability distribution for Weight given Height= 65? As explained above with continous variables we should use intervals rather than exact values. Say we want the conditional given Height between 63 and&amp;nbsp;65. &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -25038,11 +25041,11 @@ RU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Say we have measurement $\bf{y}$ where bold-face indicates that we are talking about a measurment vector, say of length $N$. This measurement is a response to some inputs: $(x_1,x_2,...x_p)$. Each one of the $x_i$ vectors also has $N$ elements. Think of the $X$ as representing different input. 
+&lt;p&gt;Say we have measurement $\bf{y}$ where bold-face indicates that we are talking about a measurment vector, say of length $N$. This measurement is a response to some inputs: $(x_1,x_2,&amp;#8230;x_p)$. Each one of the $x_i$ vectors also has $N$ elements. Think of the $X$ as representing different input. 
 A linear model assumes that the expected value of y given a specific input X can be expressed as a linear sum of the $x_i$. In other words the expectation of Y given X, E(Y|X) is linear in the inputs. All this means is that in the noise-less case y is a function of the inputs, f(x), such that there exist $\beta_i$ which satisfy:
-$$f(x)=\beta_0+\beta_1 x_1+\beta_2 \, x_2+...+ \beta_p \, x_p $$&lt;/p&gt;
-&lt;p&gt;Notice that bivariate linear regression,  is simply a subset of this, with $N=1$.&lt;/p&gt;
-&lt;p&gt;Lets look at this simple case&lt;/p&gt;
+$$f(x)=\beta_0+\beta_1 x_1+\beta_2 \, x_2+&amp;#8230;+ \beta_p \, x_p&amp;nbsp;$$&lt;/p&gt;
+&lt;p&gt;Notice that bivariate linear regression,  is simply a subset of this, with&amp;nbsp;$N=1$.&lt;/p&gt;
+&lt;p&gt;Lets look at this simple&amp;nbsp;case&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -25241,7 +25244,7 @@ APC4/wXNwAzcoJX5uAAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;And this linear relationship holds, even when the input is not a linear function&lt;/p&gt;
+&lt;p&gt;And this linear relationship holds, even when the input is not a linear&amp;nbsp;function&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -25732,8 +25735,8 @@ gg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h2 id="multi-linear-regression-"&gt;Multi-linear regression:&lt;/h2&gt;
-&lt;p&gt;This works the same if we have p inputs, where we choose p=5. For example, let&amp;#39;s consider an output which is a linear combination of p sine waves. To account for $\beta_0$, we make sure that the first column is all 1&amp;#39;s:&lt;/p&gt;
+&lt;h2 id="multi-linear-regression-"&gt;Multi-linear&amp;nbsp;regression:&lt;/h2&gt;
+&lt;p&gt;This works the same if we have p inputs, where we choose p=5. For example, let&amp;#39;s consider an output which is a linear combination of p sine waves. To account for $\beta_0$, we make sure that the first column is all&amp;nbsp;1&amp;#39;s:&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -26660,7 +26663,7 @@ IBjgCCEQCASCAY4QAoFAIBjgCCEQCASCAY4QAoFAIBjg/H8/lgcszIUheQAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;And now $f(x)$ should include all coefficients&lt;/p&gt;
+&lt;p&gt;And now $f(x)$ should include all&amp;nbsp;coefficients&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -26697,7 +26700,7 @@ In&amp;nbsp;[167]:
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;p&gt;Where np.dot is a matrix multiplication:
-$$\bf{X} \beta=\beta_0+\beta_1 x_1+\beta_2 x_2+...+\beta_p\, x_p$$&lt;/p&gt;
+$$\bf{X} \beta=\beta_0+\beta_1 x_1+\beta_2 x_2+&amp;#8230;+\beta_p\,&amp;nbsp;x_p$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -26706,7 +26709,7 @@ $$\bf{X} \beta=\beta_0+\beta_1 x_1+\beta_2 x_2+...+\beta_p\, x_p$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;We choose a set of random $\beta$ coefficients and generate $f(x)$&lt;/p&gt;
+&lt;p&gt;We choose a set of random $\beta$ coefficients and generate&amp;nbsp;$f(x)$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -27173,7 +27176,7 @@ RK5CYII=
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;h2 id="noise"&gt;Noise&lt;/h2&gt;
-&lt;p&gt;Lets now assume there is some noise such as $\bf{y}=\bf{f(x)}+\epsilon$ and lets assume the noise is normally distributed with zero mean. &lt;/p&gt;
+&lt;p&gt;Lets now assume there is some noise such as $\bf{y}=\bf{f(x)}+\epsilon$ and lets assume the noise is normally distributed with zero&amp;nbsp;mean. &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -27594,26 +27597,26 @@ kDAXQogAIGEuhBABQMJcCCECwH8B31N1YzBjjz4AAAAASUVORK5CYII=
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;h2 id="solve-the-linear-model"&gt;Solve the linear model&lt;/h2&gt;
-&lt;p&gt;This usually means finding an estimate of the $\beta$ coefficients that generated the data we observed. We are looking for a procedure to estimate the coefficients (all parameter estimates will be designated with a hat $\hat{\beta}$&lt;/p&gt;
+&lt;h2 id="solve-the-linear-model"&gt;Solve the linear&amp;nbsp;model&lt;/h2&gt;
+&lt;p&gt;This usually means finding an estimate of the $\beta$ coefficients that generated the data we observed. We are looking for a procedure to estimate the coefficients (all parameter estimates will be designated with a hat&amp;nbsp;$\hat{\beta}$&lt;/p&gt;
 &lt;p&gt;A &amp;#39;good&amp;#39; estimate of these coefficients would produce an estimate of the output, $\hat{y}$, which would be close to the measured data points.
 Where:
-$$\bf{\hat{y}=X \hat{\beta}}$$&lt;/p&gt;
+$$\bf{\hat{y}=X&amp;nbsp;\hat{\beta}}$$&lt;/p&gt;
 &lt;p&gt;A way to define this is by requiring the residual sum of squares to be small, where the residuals are:
 $$ \bf{y−\hat{y}}$$
-and the residual sum of squares (or RSS) is:&lt;/p&gt;
-&lt;p&gt;$$RSS=\sum^{N}_i (y_i−y_i)^2$$&lt;/p&gt;
-&lt;p&gt;Since $\hat{y}$ is a function of $\beta$, we can think of RSS as a function of $\beta$ and we want to optimize it with respect to a choice of the elements of $\beta$. In other words to find a minimum of RSS with respect to $\beta$.
-Mathematically speaking, we want to find a value of $\hat{\beta}$ for which the first derivative of RSS with respect to $\beta$ is 0&lt;/p&gt;
-&lt;p&gt;To find the derivative, we re-write RSS in the following way:&lt;/p&gt;
-&lt;p&gt;$$RSS(\beta)=(\bf{y−X} \beta)^T(\bf{y−X}\beta)$$&lt;/p&gt;
+and the residual sum of squares (or &lt;span class="caps"&gt;RSS&lt;/span&gt;)&amp;nbsp;is:&lt;/p&gt;
+&lt;p&gt;$$&lt;span class="caps"&gt;RSS&lt;/span&gt;=\sum^{N}_i&amp;nbsp;(y_i−y_i)^2$$&lt;/p&gt;
+&lt;p&gt;Since $\hat{y}$ is a function of $\beta$, we can think of &lt;span class="caps"&gt;RSS&lt;/span&gt; as a function of $\beta$ and we want to optimize it with respect to a choice of the elements of $\beta$. In other words to find a minimum of &lt;span class="caps"&gt;RSS&lt;/span&gt; with respect to $\beta$.
+Mathematically speaking, we want to find a value of $\hat{\beta}$ for which the first derivative of &lt;span class="caps"&gt;RSS&lt;/span&gt; with respect to $\beta$ is&amp;nbsp;0&lt;/p&gt;
+&lt;p&gt;To find the derivative, we re-write &lt;span class="caps"&gt;RSS&lt;/span&gt; in the following&amp;nbsp;way:&lt;/p&gt;
+&lt;p&gt;$$&lt;span class="caps"&gt;RSS&lt;/span&gt;(\beta)=(\bf{y−X}&amp;nbsp;\beta)^T(\bf{y−X}\beta)$$&lt;/p&gt;
 &lt;p&gt;The derivative of this function is 
-$$ \frac{d \, RSS}{d \beta}=−2\bf{X^T(y−X} \beta)$$
+$$ \frac{d \, &lt;span class="caps"&gt;RSS&lt;/span&gt;}{d \beta}=−2\bf{X^T(y−X} \beta)$$
 Setting the first derivative to 0 and dividing both sides by 2, we obtain
-$$ \bf{X^T y= X^T X} \beta $$&lt;/p&gt;
-&lt;p&gt;If $\bf{X}$ is &amp;#39;full rank&amp;#39;, then $\bf{X^T X}$ is positive definite and it can be inverted and &lt;/p&gt;
-&lt;p&gt;$$ \hat{\beta} = (\bf{X^T \, X)^{-1} X^T y} $$&lt;/p&gt;
-&lt;p&gt;which is also called ordinary least square&lt;/p&gt;
+$$ \bf{X^T y= X^T X} \beta&amp;nbsp;$$&lt;/p&gt;
+&lt;p&gt;If $\bf{X}$ is &amp;#39;full rank&amp;#39;, then $\bf{X^T X}$ is positive definite and it can be inverted&amp;nbsp;and &lt;/p&gt;
+&lt;p&gt;$$ \hat{\beta} = (\bf{X^T \, X)^{-1} X^T y}&amp;nbsp;$$&lt;/p&gt;
+&lt;p&gt;which is also called ordinary least&amp;nbsp;square&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -27642,7 +27645,7 @@ In&amp;nbsp;[172]:
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;Compute $\hat{\beta}$ using the function above &lt;/p&gt;
+&lt;p&gt;Compute $\hat{\beta}$ using the function&amp;nbsp;above &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -27883,8 +27886,8 @@ BxERMfl/bUbiGJmDa5wAAAAASUVORK5CYII=
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;And using these estimates $\hat{\beta}$ we can now estimate the $\bf{\hat{y}}$&lt;/p&gt;
-&lt;p&gt;$$ \bf{\hat{y}=X \hat{\beta} }$$&lt;/p&gt;
+&lt;p&gt;And using these estimates $\hat{\beta}$ we can now estimate the&amp;nbsp;$\bf{\hat{y}}$&lt;/p&gt;
+&lt;p&gt;$$ \bf{\hat{y}=X \hat{\beta}&amp;nbsp;}$$&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -28292,7 +28295,7 @@ zfWisrKShw8fUlpa+kJmZmRkuJSjsmhICCF8gCwaEkIIHyBhLoQQPkDCXAghfICEuRBC+AAJcyGE
 &lt;/div&gt;
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;p&gt;The &amp;quot;hat matrix&amp;quot;, H is the matrix that does the actual transformation&lt;/p&gt;
+&lt;p&gt;The &amp;quot;hat matrix&amp;quot;, H is the matrix that does the actual&amp;nbsp;transformation&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -28579,4 +28582,4 @@ In&amp;nbsp;[]:
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</summary><category term="lectures"></category></entry></feed>
+&lt;/div&gt;&lt;/p&gt;</summary><category term="lectures"></category><category term="labs"></category></entry></feed>

@@ -3,7 +3,7 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>Lecture 1</title>
+    <title>Lecture 1</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -12,14 +12,14 @@
     <!-- Open Graph tags -->
 
             <meta property="og:type" content="article"/>
-            <meta property="og:title" content="Lecture 1"/>
+            <meta property="og:title" content="Lecture 1"/>
             <meta property="og:url" content="http://lxprior.github.io/perstmpl/blog/lecture-1.html"/>
-            <meta property="og:description" content="The 1st lecture is an overview of probability."/>
+            <meta property="og:description" content="The 1st lecture is an overview of probability."/>
 
     <!-- Bootstrap -->
         <link rel="stylesheet" href="http://lxprior.github.io/perstmpl/theme/css/bootstrap.sandstone.min.css" type="text/css"/>
     <link href="http://lxprior.github.io/perstmpl/theme/css/font-awesome.min.css" rel="stylesheet">
-    <link href="http://lxprior.github.io/perstmpl/theme/css/pygments.css" rel="stylesheet">
+    <link href="http://lxprior.github.io/perstmpl/theme/css/pygments/pygments.css" rel="stylesheet">
     <link rel="stylesheet" href="http://lxprior.github.io/perstmpl/theme/css/style.css" type="text/css"/>
     <!-- JavaScript plugins (requires jQuery) -->
     <script src="http://code.jquery.com/jquery.js"></script>
@@ -112,11 +112,9 @@ init_mathjax();
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                    <li><a href="http://lxprior.github.io/perstmpl/schedule.html">Schedule</a></li>
-                    <li><a href="http://lxprior.github.io/perstmpl/syllabus.html">Syllabus</a></li>
-                    <li><a href="http://lxprior.github.io/perstmpl/policies.html">Policies</a></li>
-                    <li><a href="http://lxprior.github.io/perstmpl/resources.html">Resources</a></li>
-                    <li><a href="http://lxprior.github.io/perstmpl/contact.html">Contact</a></li>
+                    <li><a href="http://lxprior.github.io/perstmpl/blog_index.html">Blog</a></li>
+                    <li><a href="http://www.lxprior.com">LxPrior</a></li>
+                    <li><a href="http://lxprior.github.io/perstmpl/about.html">About</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="http://lxprior.github.io/perstmpl/archives.html"><i class="icon-th-list"></i>Archives</a></li>
@@ -135,8 +133,8 @@ init_mathjax();
                 <h2>
                     <a href="http://lxprior.github.io/perstmpl/blog/lecture-1.html"
                        rel="bookmark"
-                       title="Permalink to Lecture 1">
-                        Lecture 1
+                       title="Permalink to Lecture 1">
+                        Lecture&nbsp;1
                     </a>
                 </h2>
             </header>
@@ -155,6 +153,11 @@ init_mathjax();
 
 <span class="label label-default">Tags</span>
 	<a href="http://lxprior.github.io/perstmpl/tag/lectures.html">lectures</a>
+        /
+	<a href="http://lxprior.github.io/perstmpl/tag/labs.html">labs</a>
+    <span class="pull-right">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="rahuldave">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+    </span>
 </footer><!-- /.post-info -->                    </div>
                 </div>
                 <p>A video of this lecture is available <a href="http://cm.dce.harvard.edu/2014/02/24104/L02/screen_H264LargeTalkingHead-16x9.shtml">here</a>.</p>
@@ -172,17 +175,17 @@ init_mathjax();
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="short-review-of-probability-theory-distributions-etc">Short review of probability theory, distributions etc</h1>
-<p>Probabilities are numbers that tell us how often things happen (frequentist) or our believe (Bayesian) in a different outcome or notion and this is of course a very disputed topic discussed in many books, papers etc [RD: ADD REFERENCES]. In this course we take a very simple approach and we use whatever is convinient at the time, or whatever is better to demonstrate the methodologies we are learning. </p>
-<p>There are a few basic rules that form the basis for all probabilistic methodology. In this lecture, we just brieﬂy review these rules. For an in depth introduction into probability theory, you can consult a number of books and online material [RD: ADD REFERENCES].</p>
-<p>If $X$ and $Y$ are two events and $p(X)$ is the probability of the event $X$ to happen. X ̄ is the complement of X, the event which is all the occurrences which are not in X. X+Y is the union of X and Y; X,Y is the intersection of X and Y. (Both X+Y and X,Y are also events.)</p>
-<h3 id="the-very-fundamental-rules-of-probability-my-grandma-knows-these-">The very fundamental rules of probability (my grandma knows these):</h3>
+<h1 id="short-review-of-probability-theory-distributions-etc">Short review of probability theory, distributions&nbsp;etc</h1>
+<p>Probabilities are numbers that tell us how often things happen (frequentist) or our believe (Bayesian) in a different outcome or notion and this is of course a very disputed topic discussed in many books, papers etc [<span class="caps">RD</span>: <span class="caps">ADD</span> <span class="caps">REFERENCES</span>]. In this course we take a very simple approach and we use whatever is convinient at the time, or whatever is better to demonstrate the methodologies we are&nbsp;learning. </p>
+<p>There are a few basic rules that form the basis for all probabilistic methodology. In this lecture, we just brieﬂy review these rules. For an in depth introduction into probability theory, you can consult a number of books and online material [<span class="caps">RD</span>: <span class="caps">ADD</span> <span class="caps">REFERENCES</span>].</p>
+<p>If $X$ and $Y$ are two events and $p(X)$ is the probability of the event $X$ to happen. X ̄ is the complement of X, the event which is all the occurrences which are not in X. X+Y is the union of X and Y; X,Y is the intersection of X and Y. (Both X+Y and X,Y are also&nbsp;events.)</p>
+<h3 id="the-very-fundamental-rules-of-probability-my-grandma-knows-these-">The very fundamental rules of probability (my grandma knows&nbsp;these):</h3>
 <ol>
-<li>p(X) = 1 X has to happen</li>
-<li>p(X) = 0 X will certainly not happen</li>
-<li>0 ≤ p(AX) ≤ 1 X has probability range from low to high</li>
-<li>p(X)+p(X ̄)=1  X must either happen or not-happen</li>
-<li>p(X+Y)=p(X)+p(Y)−p(X,Y) X can happen and Y can happen but we must subtract the cases that are happening together so we do not overcount.</li>
+<li>p(X) = 1 X has to&nbsp;happen</li>
+<li>p(X) = 0 X will certainly not&nbsp;happen</li>
+<li>0 ≤ p(<span class="caps">AX</span>) ≤ 1 X has probability range from low to&nbsp;high</li>
+<li>p(X)+p(X ̄)=1  X must either happen or&nbsp;not-happen</li>
+<li>p(X+Y)=p(X)+p(Y)−p(X,Y) X can happen and Y can happen but we must subtract the cases that are happening together so we do not&nbsp;overcount.</li>
 </ol>
 </div>
 </div>
@@ -192,12 +195,12 @@ init_mathjax();
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>For two random variates $x,y$ the $p(x,y)$ is called the joint distribution, and $p(x|y)$ the conditional distribution. </p>
-<h3 id="sum-rule-marginal-distribution-">Sum rule (marginal distribution)</h3>
-<p>We can write the marginal probability of x as a sum over the joint distribution of x and y where we sum over all possibilities of y,</p>
-<p>$$p(x) = \sum_y p(x,y) $$</p>
-<p>for continuous random variables this becomes:</p>
-<p>$$ p(x) = \int_y p(x,y) \, dy $$</p>
+<p>For two random variates $x,y$ the $p(x,y)$ is called the joint distribution, and $p(x|y)$ the conditional&nbsp;distribution. </p>
+<h3 id="sum-rule-marginal-distribution-">Sum rule (marginal&nbsp;distribution)</h3>
+<p>We can write the marginal probability of x as a sum over the joint distribution of x and y where we sum over all possibilities of&nbsp;y,</p>
+<p>$$p(x) = \sum_y p(x,y)&nbsp;$$</p>
+<p>for continuous random variables this&nbsp;becomes:</p>
+<p>$$ p(x) = \int_y p(x,y) \, dy&nbsp;$$</p>
 </div>
 </div>
 </div>
@@ -206,9 +209,9 @@ init_mathjax();
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="product-rule">Product rule</h3>
-<p>We can rewrite a joint distribution as a product of a conditional and marginal probability,</p>
-<p>$$ p(x,y) = p(x|y) p(y) $$</p>
+<h3 id="product-rule">Product&nbsp;rule</h3>
+<p>We can rewrite a joint distribution as a product of a conditional and marginal&nbsp;probability,</p>
+<p>$$ p(x,y) = p(x|y) p(y)&nbsp;$$</p>
 </div>
 </div>
 </div>
@@ -217,11 +220,11 @@ init_mathjax();
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="chain-rule">Chain rule</h3>
+<h3 id="chain-rule">Chain&nbsp;rule</h3>
 <p>The product rule is applied repeatedly to give expressions for the joint
 probability involving more than two variables. For example, the joint distribution over three
-variables can be factorized into a product of conditional probabilities:</p>
-<p>$$ p(x,y,z) = p(x|y,z) \, p(y,z) = p(x |y,z) \, p(y|z) p(z) $$</p>
+variables can be factorized into a product of conditional&nbsp;probabilities:</p>
+<p>$$ p(x,y,z) = p(x|y,z) \, p(y,z) = p(x |y,z) \, p(y|z) p(z)&nbsp;$$</p>
 </div>
 </div>
 </div>
@@ -230,12 +233,12 @@ variables can be factorized into a product of conditional probabilities:</p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="bayes-rule">Bayes rule</h3>
-<p>Given the product rule one can derive the Bayes rule, which plays a central role in a lot of the things we will be talking:</p>
-<p>$$ p(y|x) = \frac{p(x|y) \, p(y) }{p(x)} = \frac{p(x|y) \, p(y) }{\sum_y' p(x,y')} = \frac{p(x|y) \, p(y) }{\sum_y' p(x|y')p(y')}$$</p>
+<h3 id="bayes-rule">Bayes&nbsp;rule</h3>
+<p>Given the product rule one can derive the Bayes rule, which plays a central role in a lot of the things we will be&nbsp;talking:</p>
+<p>$$ p(y|x) = \frac{p(x|y) \, p(y) }{p(x)} = \frac{p(x|y) \, p(y) }{\sum_y&#8217; p(x,y&#8217;)} = \frac{p(x|y) \, p(y) }{\sum_y&#8217;&nbsp;p(x|y&#8217;)p(y&#8217;)}$$</p>
 <p>Importantly, we rarely need to explicitly evaluate the denominator $p(x)$. Instead, we can just evaluate the conditional probability up to a
-constant of proportionality:</p>
-<p>$$ p(y|x) \propto p(x|y) \, p(y) $$</p>
+constant of&nbsp;proportionality:</p>
+<p>$$ p(y|x) \propto p(x|y) \, p(y)&nbsp;$$</p>
 </div>
 </div>
 </div>
@@ -245,8 +248,8 @@ constant of proportionality:</p>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="independence">Independence</h3>
-<p>Two variables are said to be independent if their joint distribution factorizes into a product of two marginal probabilities:</p>
-<p>$$ p(x,y) = p(x) \, p(y) $$ </p>
+<p>Two variables are said to be independent if their joint distribution factorizes into a product of two marginal&nbsp;probabilities:</p>
+<p>$$ p(x,y) = p(x) \, p(y)&nbsp;$$ </p>
 </div>
 </div>
 </div>
@@ -255,8 +258,8 @@ constant of proportionality:</p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Note that if two variables are uncorrelated, that does not mean they are statistically independent. There are many ways to measure statistical association between variables and correlation is just one of them. However, if two variables are independent, this will ensure there is no correlation between them. Another consequence of independence is that if $x$ and $y$ are independent, the conditional probability of $x$ given $y$ is just the probability of $x$:</p>
-<p>$$ p(x|y) = p(x) $$</p>
+<p>Note that if two variables are uncorrelated, that does not mean they are statistically independent. There are many ways to measure statistical association between variables and correlation is just one of them. However, if two variables are independent, this will ensure there is no correlation between them. Another consequence of independence is that if $x$ and $y$ are independent, the conditional probability of $x$ given $y$ is just the probability of&nbsp;$x$:</p>
+<p>$$ p(x|y) = p(x)&nbsp;$$</p>
 </div>
 </div>
 </div>
@@ -265,11 +268,11 @@ constant of proportionality:</p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>In other words, by conditioning on a particular $y$, we have learned nothing about $x$ because of independence. Two variables $x$ and $y$ and said to be conditionally independent of $z$ if the following holds:</p>
-<p>$$ p(x,y|z) = p(x|z) p(y|z) $$</p>
-<p>Therefore, if we learn about z, x and y become independent. Another way to write that $x$ and $y$ are conditionally independent of $z$ is </p>
-<p>$$ p(x| z, y) = p(x|z) $$</p>
-<p>In other words, if we condition on $z$, and now also learn about $y$, this is not going to change the probability of $x$. It is important to realize that conditional independence between $x$ and $y$ does not imply independence between $x$ and $y$. </p>
+<p>In other words, by conditioning on a particular $y$, we have learned nothing about $x$ because of independence. Two variables $x$ and $y$ and said to be conditionally independent of $z$ if the following&nbsp;holds:</p>
+<p>$$ p(x,y|z) = p(x|z) p(y|z)&nbsp;$$</p>
+<p>Therefore, if we learn about z, x and y become independent. Another way to write that $x$ and $y$ are conditionally independent of $z$&nbsp;is </p>
+<p>$$ p(x| z, y) = p(x|z)&nbsp;$$</p>
+<p>In other words, if we condition on $z$, and now also learn about $y$, this is not going to change the probability of $x$. It is important to realize that conditional independence between $x$ and $y$ does not imply independence between $x$ and&nbsp;$y$. </p>
 </div>
 </div>
 </div>
@@ -324,7 +327,7 @@ In&nbsp;[32]:
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="distributions">Distributions</h2>
 <p>Probability distribution (aka probability measure) is a function that takes an event and gives its probability. Sometimes this is not well defined in the whole probability space but we will not worry about this for now.
-There are two classes of statistical distributions, discete and continous.</p>
+There are two classes of statistical distributions, discete and&nbsp;continous.</p>
 </div>
 </div>
 </div>
@@ -333,7 +336,7 @@ There are two classes of statistical distributions, discete and continous.</p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="discrete-distributions">Discrete Distributions</h3>
+<h3 id="discrete-distributions">Discrete&nbsp;Distributions</h3>
 </div>
 </div>
 </div>
@@ -342,14 +345,14 @@ There are two classes of statistical distributions, discete and continous.</p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="bernoulli-distribution">Bernoulli distribution</h3>
-<p>The probability for a yes/no outcome of an expiriment, the Bernoulli probability, is given by the Bernoulli distribution. Bernoulli distribution is the mother of all distributions. Every exeriment, can be always expressed it in terms of success/failure. If you do not know which distributon to use, you can think of any problem as a yes/no problem and starting from there you work your to all other distributions.  </p>
-<p>For a given probability $p$ of a success/failure (or yes/no), the we expect the value k=1, $p n$ times out of $n$, meanwhile it takes k=0 in all the other cases. For example if $p=0.6$ and draw 10 numbers we expect 6 to be 1 and 4 to be zero. Therefore the probability of getting $k=1$ is $p$ and $k=0$ is $1-p$. </p>
-<p>$$ f(k;p) = \begin{cases} p &amp; \text{if }k=1, \\[6pt]
-1-p &amp; \text {if }k=0.\end{cases} $$</p>
-<p>This can be expressed also as:</p>
-<p>$$ f(k;p) = p^k (1-p)^{1-k}\!\quad \text{for }k\in\{0,1\}.$$</p>
-<p>The mean of random variables drawn from such distribution is $E[X] = p$ and the variance is $Var[X]=p(1-p)$</p>
+<h3 id="bernoulli-distribution">Bernoulli&nbsp;distribution</h3>
+<p>The probability for a yes/no outcome of an expiriment, the Bernoulli probability, is given by the Bernoulli distribution. Bernoulli distribution is the mother of all distributions. Every exeriment, can be always expressed it in terms of success/failure. If you do not know which distributon to use, you can think of any problem as a yes/no problem and starting from there you work your to all other&nbsp;distributions.  </p>
+<p>For a given probability $p$ of a success/failure (or yes/no), the we expect the value k=1, $p n$ times out of $n$, meanwhile it takes k=0 in all the other cases. For example if $p=0.6$ and draw 10 numbers we expect 6 to be 1 and 4 to be zero. Therefore the probability of getting $k=1$ is $p$ and $k=0$ is&nbsp;$1-p$. </p>
+<p>$$ f(k;p) = \begin{cases} p <span class="amp">&amp;</span> \text{if }k=1, &#92;[6pt]
+1-p <span class="amp">&amp;</span> \text {if }k=0.\end{cases}&nbsp;$$</p>
+<p>This can be expressed also&nbsp;as:</p>
+<p>$$ f(k;p) = p^k (1-p)^{1-k}\!\quad \text{for&nbsp;}k\in\{0,1\}.$$</p>
+<p>The mean of random variables drawn from such distribution is $E[X] = p$ and the variance is&nbsp;$Var[X]=p(1-p)$</p>
 </div>
 </div>
 </div>
@@ -640,9 +643,9 @@ FIhmAAAoEM0AAFAgmgEAoEA0AwBAgWgGAIAC0QwAAAX/H4/SJXi+pbzQAAAAAElFTkSuQmCC
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="example-bernoulli-distribution">Example Bernoulli Distribution</h4>
-<p>Suppose in AM207 last year the class got C or better with probability 0.75. Let the random 
-variable X be the probability that someone gets a grade higher the C. </p>
+<h4 id="example-bernoulli-distribution">Example Bernoulli&nbsp;Distribution</h4>
+<p>Suppose in <span class="caps">AM207</span> last year the class got C or better with probability 0.75. Let the random 
+variable X be the probability that someone gets a grade higher the&nbsp;C. </p>
 </div>
 </div>
 </div>
@@ -782,8 +785,8 @@ AGAoAg4Ahvp/yFsFDsOdKCoAAAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="binomial-distribution">Binomial distribution</h2>
-<p>Bionomial is the distribution of the number of successes in a sequence of $n$ independent yes/no experiments, each of which yields success with probability $p$. The Binomial distribution is an extension of the Bernoulli when $n&gt;1$ or the Bernoulli is the a special case of the Binomial when $n=1$.   </p>
+<h2 id="binomial-distribution">Binomial&nbsp;distribution</h2>
+<p>Bionomial is the distribution of the number of successes in a sequence of $n$ independent yes/no experiments, each of which yields success with probability $p$. The Binomial distribution is an extension of the Bernoulli when $n&gt;1$ or the Bernoulli is the a special case of the Binomial when&nbsp;$n=1$.   </p>
 </div>
 </div>
 </div>
@@ -792,10 +795,10 @@ AGAoAg4Ahvp/yFsFDsOdKCoAAAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>$$P(X = k; n, p) = {n\choose k}p^k(1-p)^{n-k} $$</p>
+<p>$$P(X = k; n, p) = {n\choose k}p^k(1-p)^{n-k}&nbsp;$$</p>
 <p>where</p>
-<p>$${n\choose k}=\frac{n!}{k!(n-k)!}$$</p>
-<p>The expected value $E[X]=np$ and the variance is $Var[X]=np(1-p)$</p>
+<p>$${n\choose&nbsp;k}=\frac{n!}{k!(n-k)!}$$</p>
+<p>The expected value $E[X]=np$ and the variance is&nbsp;$Var[X]=np(1-p)$</p>
 </div>
 </div>
 </div>
@@ -1431,8 +1434,8 @@ TkSuQmCC
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="example-binomial-distribution">Example Binomial distribution</h4>
-<p>Probability of 8 people getting a C or higher this year assuming we have 50 students in total. In this case $p=0.75$ and $n=50$. If we assume uncorrelated events, then p(k=8; n=50, p=0.75)</p>
+<h4 id="example-binomial-distribution">Example Binomial&nbsp;distribution</h4>
+<p>Probability of 8 people getting a C or higher this year assuming we have 50 students in total. In this case $p=0.75$ and $n=50$. If we assume uncorrelated events, then p(k=8; n=50,&nbsp;p=0.75)</p>
 </div>
 </div>
 </div>
@@ -1586,7 +1589,7 @@ oCREpAAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="poisson-distribution">Poisson distribution</h2>
+<h2 id="poisson-distribution">Poisson&nbsp;distribution</h2>
 </div>
 </div>
 </div>
@@ -1595,8 +1598,8 @@ oCREpAAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Another discrete distribution, the Poisson distribution expresses the probability of a given number of events occurring in a fixed interval of time and/or space if these events occur with a known average rate and independently of the time since the last event.  Defined for all the integer positive number as,</p>
-<p>$$ P(X=k)= \frac{\lambda^k e^{-\lambda}}{k!}, $$</p>
+<p>Another discrete distribution, the Poisson distribution expresses the probability of a given number of events occurring in a fixed interval of time and/or space if these events occur with a known average rate and independently of the time since the last event.  Defined for all the integer positive number&nbsp;as,</p>
+<p>$$ P(X=k)= \frac{\lambda^k e^{-\lambda}}{k!},&nbsp;$$</p>
 </div>
 </div>
 </div>
@@ -2674,8 +2677,8 @@ NU1prXW6gxBCCCGEEOJaJCPbQgghhBBCpIgk20IIIYQQQqSIJNtCCCGEEEKkiCTbQgghhBBCpIgk
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="continous-variables">Continous variables</h2>
-<p>The difficulty with continuous random variables is that you can’t find the probability of the exact event. The problem is  that every value of the random variate has length 0, but if you add enough values together you have something with positive length. The usual way around this difficulty, is to define probabilities for intervals.</p>
+<h2 id="continous-variables">Continous&nbsp;variables</h2>
+<p>The difficulty with continuous random variables is that you can’t find the probability of the exact event. The problem is  that every value of the random variate has length 0, but if you add enough values together you have something with positive length. The usual way around this difficulty, is to define probabilities for&nbsp;intervals.</p>
 </div>
 </div>
 </div>
@@ -2684,10 +2687,10 @@ NU1prXW6gxBCCCGEEOJaJCPbQgghhBBCpIgk20IIIYQQQqSIJNtCCCGEEEKkiCTbQgghhBBCpIgk
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="normal-distribution">Normal Distribution</h3>
+<h3 id="normal-distribution">Normal&nbsp;Distribution</h3>
 <p>Probably the most important of all distributions is the normal distribution due to the Central Limit Theorem which
-states that, given certain conditions, the arithmetic mean of a sufficiently large number of iterates of independent random variables, each with a well-defined expected value and well-defined variance, will be approximately normally distributed. A normal distribution is:</p>
-<p>$$ f(x, \mu, \sigma) = \frac{1}{\sigma\sqrt{2\pi}} e^{ -\frac{(x-\mu)^2}{2\sigma^2} } $$</p>
+states that, given certain conditions, the arithmetic mean of a sufficiently large number of iterates of independent random variables, each with a well-defined expected value and well-defined variance, will be approximately normally distributed. A normal distribution&nbsp;is:</p>
+<p>$$ f(x, \mu, \sigma) = \frac{1}{\sigma\sqrt{2\pi}} e^{ -\frac{(x-\mu)^2}{2\sigma^2} }&nbsp;$$</p>
 </div>
 </div>
 </div>
@@ -3452,8 +3455,8 @@ iIREwbiIiIiISEj+PwgtBH0SHlkyAAAAAElFTkSuQmCC
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="alpha">Alpha</h3>
-<p>The Alpha distribution is defined as:</p>
-<p>$$ p_{\alpha}(x,a)=\frac{1}{x^2 \Phi(a) \sqrt{2 \pi}} exp(−\frac{1}{2} (\frac{a−1}{x})^2), \rm{with} \,\,  x&gt;0, \, a&gt;0 $$</p>
+<p>The Alpha distribution is defined&nbsp;as:</p>
+<p>$$ p_{\alpha}(x,a)=\frac{1}{x^2 \Phi(a) \sqrt{2 \pi}} exp(−\frac{1}{2} (\frac{a−1}{x})^2), \rm{with} \,\,  x&gt;0, \, a&gt;0&nbsp;$$</p>
 </div>
 </div>
 </div>
@@ -4041,12 +4044,12 @@ RU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="beta-distribution">Beta distribution</h2>
+<h2 id="beta-distribution">Beta&nbsp;distribution</h2>
 <p>The Beta distribution is defined for a variabile rangin between 0 and 1.
-The pdf is defined as:</p>
+The pdf is defined&nbsp;as:</p>
 <p>$$f(x;\alpha,\beta)  = \frac{1}{B(\alpha, \beta)}\, x^{\alpha-1}(1-x)^{\beta-1} $$
-with $ 0 \le x  \le 1$, $\alpha&gt;0$ and $\beta &gt;0$.</p>
-<p>where $B(\alpha, \beta)$ is the Beta functions that serves as a normalization.</p>
+with $ 0 \le x  \le 1$, $\alpha&gt;0$ and $\beta&nbsp;&gt;0$.</p>
+<p>where $B(\alpha, \beta)$ is the Beta functions that serves as a&nbsp;normalization.</p>
 </div>
 </div>
 </div>
@@ -4747,13 +4750,12 @@ BwRqAAAAwAMCNQAAAOABgRoAAADwgEANAAAAeECgBgAAADz4D85ZUqviiVT5AAAAAElFTkSuQmCC
 <p>Exponential is the probability distribution that describes the time between events in a Poisson process
 The Exponantial probability function is
 $$f(x;\lambda) = \begin{cases}
-\lambda e^{-\lambda x} &amp; x \ge 0, \\
-0 &amp; x &lt; 0.
+\lambda e^{-\lambda x} <span class="amp">&amp;</span> x \ge 0, &#92;
+0 <span class="amp">&amp;</span> x &lt; 0.
 \end{cases}$$
 Therefore, the random variable X has an exponential distribution with parameter $\lambda$, we say $X$ is exponential and write
 $ X∼Exp(\lambda)$
-Given a specific $\lambda$, the expected value of an exponential random variable is equal to the inverse of $\lambda$, that is:
-$E[X|\lambda]=\frac{1}{\lambda}$</p>
+Given a specific $\lambda$, the expected value of an exponential random variable is equal to the inverse of $\lambda$, that is:&nbsp;$E[X|\lambda]=\frac{1}{\lambda}$</p>
 </div>
 </div>
 </div>
@@ -5256,7 +5258,7 @@ IAiCIAiCINoEiWuCIAiCIAiCaBP/HyVeuXVIJE/EAAAAAElFTkSuQmCC
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="mutlivariate-random-variates">Mutlivariate random variates</h2>
+<h2 id="mutlivariate-random-variates">Mutlivariate random&nbsp;variates</h2>
 </div>
 </div>
 </div>
@@ -5340,8 +5342,8 @@ In&nbsp;[27]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="joint-marginal-and-conditional">Joint, marginal and conditional</h2>
-<p>The joint distribution is given by the 2D histogram as </p>
+<h2 id="joint-marginal-and-conditional">Joint, marginal and&nbsp;conditional</h2>
+<p>The joint distribution is given by the 2D histogram&nbsp;as </p>
 </div>
 </div>
 </div>
@@ -5470,7 +5472,7 @@ ADiCwAYARxDYAOAIAhsAHEFgA4AjCGwAcASBDQCOILABwBH/Dyu5KbiErU4SAAAAAElFTkSuQmCC
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Lets look at the actual distribution</p>
+<p>Lets look at the actual&nbsp;distribution</p>
 </div>
 </div>
 </div>
@@ -5947,7 +5949,7 @@ V0opG/D/W45eI4UpACMAAAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>How about the marginal? This is as simple as taking the histogram ignoring one of the dimensions. For example marginalizing over Height take the histogram of Weight as:</p>
+<p>How about the marginal? This is as simple as taking the histogram ignoring one of the dimensions. For example marginalizing over Height take the histogram of Weight&nbsp;as:</p>
 </div>
 </div>
 </div>
@@ -6116,7 +6118,7 @@ DQZ7jENSnQAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Finally how about conditional? Lets assume we want the probability distribution for Weight given Height= 65? As explained above with continous variables we should use intervals rather than exact values. Say we want the conditional given Height between 63 and 65. </p>
+<p>Finally how about conditional? Lets assume we want the probability distribution for Weight given Height= 65? As explained above with continous variables we should use intervals rather than exact values. Say we want the conditional given Height between 63 and&nbsp;65. </p>
 </div>
 </div>
 </div>
@@ -9291,11 +9293,11 @@ RU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Say we have measurement $\bf{y}$ where bold-face indicates that we are talking about a measurment vector, say of length $N$. This measurement is a response to some inputs: $(x_1,x_2,...x_p)$. Each one of the $x_i$ vectors also has $N$ elements. Think of the $X$ as representing different input. 
+<p>Say we have measurement $\bf{y}$ where bold-face indicates that we are talking about a measurment vector, say of length $N$. This measurement is a response to some inputs: $(x_1,x_2,&#8230;x_p)$. Each one of the $x_i$ vectors also has $N$ elements. Think of the $X$ as representing different input. 
 A linear model assumes that the expected value of y given a specific input X can be expressed as a linear sum of the $x_i$. In other words the expectation of Y given X, E(Y|X) is linear in the inputs. All this means is that in the noise-less case y is a function of the inputs, f(x), such that there exist $\beta_i$ which satisfy:
-$$f(x)=\beta_0+\beta_1 x_1+\beta_2 \, x_2+...+ \beta_p \, x_p $$</p>
-<p>Notice that bivariate linear regression,  is simply a subset of this, with $N=1$.</p>
-<p>Lets look at this simple case</p>
+$$f(x)=\beta_0+\beta_1 x_1+\beta_2 \, x_2+&#8230;+ \beta_p \, x_p&nbsp;$$</p>
+<p>Notice that bivariate linear regression,  is simply a subset of this, with&nbsp;$N=1$.</p>
+<p>Lets look at this simple&nbsp;case</p>
 </div>
 </div>
 </div>
@@ -9494,7 +9496,7 @@ APC4/wXNwAzcoJX5uAAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>And this linear relationship holds, even when the input is not a linear function</p>
+<p>And this linear relationship holds, even when the input is not a linear&nbsp;function</p>
 </div>
 </div>
 </div>
@@ -9985,8 +9987,8 @@ gg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="multi-linear-regression-">Multi-linear regression:</h2>
-<p>This works the same if we have p inputs, where we choose p=5. For example, let&#39;s consider an output which is a linear combination of p sine waves. To account for $\beta_0$, we make sure that the first column is all 1&#39;s:</p>
+<h2 id="multi-linear-regression-">Multi-linear&nbsp;regression:</h2>
+<p>This works the same if we have p inputs, where we choose p=5. For example, let&#39;s consider an output which is a linear combination of p sine waves. To account for $\beta_0$, we make sure that the first column is all&nbsp;1&#39;s:</p>
 </div>
 </div>
 </div>
@@ -10913,7 +10915,7 @@ IBjgCCEQCASCAY4QAoFAIBjgCCEQCASCAY4QAoFAIBjg/H8/lgcszIUheQAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>And now $f(x)$ should include all coefficients</p>
+<p>And now $f(x)$ should include all&nbsp;coefficients</p>
 </div>
 </div>
 </div>
@@ -10950,7 +10952,7 @@ In&nbsp;[167]:
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Where np.dot is a matrix multiplication:
-$$\bf{X} \beta=\beta_0+\beta_1 x_1+\beta_2 x_2+...+\beta_p\, x_p$$</p>
+$$\bf{X} \beta=\beta_0+\beta_1 x_1+\beta_2 x_2+&#8230;+\beta_p\,&nbsp;x_p$$</p>
 </div>
 </div>
 </div>
@@ -10959,7 +10961,7 @@ $$\bf{X} \beta=\beta_0+\beta_1 x_1+\beta_2 x_2+...+\beta_p\, x_p$$</p>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>We choose a set of random $\beta$ coefficients and generate $f(x)$</p>
+<p>We choose a set of random $\beta$ coefficients and generate&nbsp;$f(x)$</p>
 </div>
 </div>
 </div>
@@ -11426,7 +11428,7 @@ RK5CYII=
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="noise">Noise</h2>
-<p>Lets now assume there is some noise such as $\bf{y}=\bf{f(x)}+\epsilon$ and lets assume the noise is normally distributed with zero mean. </p>
+<p>Lets now assume there is some noise such as $\bf{y}=\bf{f(x)}+\epsilon$ and lets assume the noise is normally distributed with zero&nbsp;mean. </p>
 </div>
 </div>
 </div>
@@ -11847,26 +11849,26 @@ kDAXQogAIGEuhBABQMJcCCECwH8B31N1YzBjjz4AAAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="solve-the-linear-model">Solve the linear model</h2>
-<p>This usually means finding an estimate of the $\beta$ coefficients that generated the data we observed. We are looking for a procedure to estimate the coefficients (all parameter estimates will be designated with a hat $\hat{\beta}$</p>
+<h2 id="solve-the-linear-model">Solve the linear&nbsp;model</h2>
+<p>This usually means finding an estimate of the $\beta$ coefficients that generated the data we observed. We are looking for a procedure to estimate the coefficients (all parameter estimates will be designated with a hat&nbsp;$\hat{\beta}$</p>
 <p>A &#39;good&#39; estimate of these coefficients would produce an estimate of the output, $\hat{y}$, which would be close to the measured data points.
 Where:
-$$\bf{\hat{y}=X \hat{\beta}}$$</p>
+$$\bf{\hat{y}=X&nbsp;\hat{\beta}}$$</p>
 <p>A way to define this is by requiring the residual sum of squares to be small, where the residuals are:
 $$ \bf{y−\hat{y}}$$
-and the residual sum of squares (or RSS) is:</p>
-<p>$$RSS=\sum^{N}_i (y_i−y_i)^2$$</p>
-<p>Since $\hat{y}$ is a function of $\beta$, we can think of RSS as a function of $\beta$ and we want to optimize it with respect to a choice of the elements of $\beta$. In other words to find a minimum of RSS with respect to $\beta$.
-Mathematically speaking, we want to find a value of $\hat{\beta}$ for which the first derivative of RSS with respect to $\beta$ is 0</p>
-<p>To find the derivative, we re-write RSS in the following way:</p>
-<p>$$RSS(\beta)=(\bf{y−X} \beta)^T(\bf{y−X}\beta)$$</p>
+and the residual sum of squares (or <span class="caps">RSS</span>)&nbsp;is:</p>
+<p>$$<span class="caps">RSS</span>=\sum^{N}_i&nbsp;(y_i−y_i)^2$$</p>
+<p>Since $\hat{y}$ is a function of $\beta$, we can think of <span class="caps">RSS</span> as a function of $\beta$ and we want to optimize it with respect to a choice of the elements of $\beta$. In other words to find a minimum of <span class="caps">RSS</span> with respect to $\beta$.
+Mathematically speaking, we want to find a value of $\hat{\beta}$ for which the first derivative of <span class="caps">RSS</span> with respect to $\beta$ is&nbsp;0</p>
+<p>To find the derivative, we re-write <span class="caps">RSS</span> in the following&nbsp;way:</p>
+<p>$$<span class="caps">RSS</span>(\beta)=(\bf{y−X}&nbsp;\beta)^T(\bf{y−X}\beta)$$</p>
 <p>The derivative of this function is 
-$$ \frac{d \, RSS}{d \beta}=−2\bf{X^T(y−X} \beta)$$
+$$ \frac{d \, <span class="caps">RSS</span>}{d \beta}=−2\bf{X^T(y−X} \beta)$$
 Setting the first derivative to 0 and dividing both sides by 2, we obtain
-$$ \bf{X^T y= X^T X} \beta $$</p>
-<p>If $\bf{X}$ is &#39;full rank&#39;, then $\bf{X^T X}$ is positive definite and it can be inverted and </p>
-<p>$$ \hat{\beta} = (\bf{X^T \, X)^{-1} X^T y} $$</p>
-<p>which is also called ordinary least square</p>
+$$ \bf{X^T y= X^T X} \beta&nbsp;$$</p>
+<p>If $\bf{X}$ is &#39;full rank&#39;, then $\bf{X^T X}$ is positive definite and it can be inverted&nbsp;and </p>
+<p>$$ \hat{\beta} = (\bf{X^T \, X)^{-1} X^T y}&nbsp;$$</p>
+<p>which is also called ordinary least&nbsp;square</p>
 </div>
 </div>
 </div>
@@ -11895,7 +11897,7 @@ In&nbsp;[172]:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Compute $\hat{\beta}$ using the function above </p>
+<p>Compute $\hat{\beta}$ using the function&nbsp;above </p>
 </div>
 </div>
 </div>
@@ -12136,8 +12138,8 @@ BxERMfl/bUbiGJmDa5wAAAAASUVORK5CYII=
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>And using these estimates $\hat{\beta}$ we can now estimate the $\bf{\hat{y}}$</p>
-<p>$$ \bf{\hat{y}=X \hat{\beta} }$$</p>
+<p>And using these estimates $\hat{\beta}$ we can now estimate the&nbsp;$\bf{\hat{y}}$</p>
+<p>$$ \bf{\hat{y}=X \hat{\beta}&nbsp;}$$</p>
 </div>
 </div>
 </div>
@@ -12545,7 +12547,7 @@ zfWisrKShw8fUlpa+kJmZmRkuJSjsmhICCF8gCwaEkIIHyBhLoQQPkDCXAghfICEuRBC+AAJcyGE
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The &quot;hat matrix&quot;, H is the matrix that does the actual transformation</p>
+<p>The &quot;hat matrix&quot;, H is the matrix that does the actual&nbsp;transformation</p>
 </div>
 </div>
 </div>
