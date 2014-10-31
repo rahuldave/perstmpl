@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+gh-pages/
+_nb_header.html
+cache/
