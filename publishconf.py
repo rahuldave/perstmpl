@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://lxprior.github.io/perstmpl'
+SITEURL = 'http://www.rahuldave.com'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -24,3 +24,4 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 #GOOGLE_ANALYTICS = ""
 start = SITEURL
 MENUITEMS = do_menuitems(start)
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
