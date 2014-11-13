@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TIG</title><link>http://lxprior.github.io/perstmpl/</link><description></description><atom:link href="http://lxprior.github.io/perstmpl/feeds/rahul-dave.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 31 Oct 2014 12:08:51 +0100</lastBuildDate><item><title>Lab 1</title><link>http://lxprior.github.io/perstmpl/blog/lab-1.html</link><description>&lt;p&gt;Install &lt;a href="{filename}../posts/installpython.md"&gt;instructions for the Anaconda stack&lt;/a&gt;.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TIG</title><link>http://www.rahuldave.com/</link><description></description><atom:link href="http://www.rahuldave.com/feeds/rahul-dave.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 13 Nov 2014 13:46:35 +0100</lastBuildDate><item><title>Lab 1</title><link>http://www.rahuldave.com/blog/lab-1.html</link><description>&lt;p&gt;Install &lt;a href="{filename}../posts/installpython.md"&gt;instructions for the Anaconda stack&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;A video of this lab will soon be&amp;nbsp;available.&lt;/p&gt;
 &lt;p&gt;You can download this lab &lt;a href="{filename}/../../static/lab1.zip"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;
@@ -15704,4 +15704,4 @@ AhkAAIBhBDIAAADDvgBvTNkFNqftLwAAAABJRU5ErkJggg==
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rahul Dave</dc:creator><pubDate>Fri, 31 Oct 2014 12:08:51 +0100</pubDate><guid>tag:lxprior.github.io,2014-10-31:perstmpl/blog/lab-1.html</guid><category>labs</category></item></channel></rss>
+&lt;/div&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rahul Dave</dc:creator><pubDate>Thu, 13 Nov 2014 13:46:35 +0100</pubDate><guid>tag:www.rahuldave.com,2014-11-13:blog/lab-1.html</guid><category>labs</category></item></channel></rss>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TIG</title><link>http://lxprior.github.io/perstmpl/</link><description></description><atom:link href="http://lxprior.github.io/perstmpl/feeds/pavlos-protopapas.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 31 Oct 2014 12:08:51 +0100</lastBuildDate><item><title>Homework 1</title><link>http://lxprior.github.io/perstmpl/blog/homework-1.html</link><description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TIG</title><link>http://www.rahuldave.com/</link><description></description><atom:link href="http://www.rahuldave.com/feeds/pavlos-protopapas.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 13 Nov 2014 13:46:35 +0100</lastBuildDate><item><title>Homework 1</title><link>http://www.rahuldave.com/blog/homework-1.html</link><description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -203,7 +203,7 @@ In&amp;nbsp;[]:
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pavlos Protopapas</dc:creator><pubDate>Fri, 31 Oct 2014 12:08:51 +0100</pubDate><guid>tag:lxprior.github.io,2014-10-31:perstmpl/blog/homework-1.html</guid><category>homeworks</category><category>labs</category></item><item><title>Lecture 1</title><link>http://lxprior.github.io/perstmpl/blog/lecture-1.html</link><description>&lt;p&gt;A video of this lecture is available &lt;a href="http://cm.dce.harvard.edu/2014/02/24104/L02/screen_H264LargeTalkingHead-16x9.shtml"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pavlos Protopapas</dc:creator><pubDate>Thu, 13 Nov 2014 13:46:35 +0100</pubDate><guid>tag:www.rahuldave.com,2014-11-13:blog/homework-1.html</guid><category>homeworks</category><category>labs</category></item><item><title>Lecture 1</title><link>http://www.rahuldave.com/blog/lecture-1.html</link><description>&lt;p&gt;A video of this lecture is available &lt;a href="http://cm.dce.harvard.edu/2014/02/24104/L02/screen_H264LargeTalkingHead-16x9.shtml"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can download this lecture &lt;a href="{filename}/../../notebooks/Lecture1.ipynb"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;div class="videobox"&gt;
                 &lt;iframe width="640" height="390"
@@ -12877,4 +12877,4 @@ In&amp;nbsp;[]:
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pavlos Protopapas</dc:creator><pubDate>Fri, 31 Oct 2014 12:08:51 +0100</pubDate><guid>tag:lxprior.github.io,2014-10-31:perstmpl/blog/lecture-1.html</guid><category>lectures</category><category>labs</category></item></channel></rss>
+&lt;/div&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pavlos Protopapas</dc:creator><pubDate>Thu, 13 Nov 2014 13:46:35 +0100</pubDate><guid>tag:www.rahuldave.com,2014-11-13:blog/lecture-1.html</guid><category>lectures</category><category>labs</category></item></channel></rss>
