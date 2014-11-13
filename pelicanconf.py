@@ -20,7 +20,7 @@ TRANSLATION_FEED_ATOM = None
 
 #specific
 THEME = 'support/themes/modpbs3'
-BOOTSTRAP_THEME = 'journal'
+BOOTSTRAP_THEME = 'readable'
 TWITTER_USERNAME="rahuldave"
 
 TYPOGRIFY=True
